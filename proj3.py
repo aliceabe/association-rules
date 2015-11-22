@@ -74,11 +74,55 @@ def checkJoinCondition(I1, I2):
 	else:
 		return I1[-1] < I2[-1]
 
-def printFirstPart(L, minsup, transactions):
+def generateNonEmptySubsets(l):
+	result = nonEmptySubsets(l)
+	res = set()
+	for r in result:
+		res.add(tuple(sorted(r)))
+	finalresult = [ [list(i)] for i in res]
+	for elem in finalresult:
+		elem.append([e for e in l if e not in elem[0]])
+	for elem in finalresult:
+		if len(elem[1]) == 0:
+			finalresult.remove(elem)
+	return finalresult
+
+def nonEmptySubsets(l):
+	if len(l) == 1:
+		return [l]
+	result = []
+	for i in range(len(l)):
+		subsets = nonEmptySubsets(l[0:i] + l[i+1:])
+		for sub in subsets:
+			result.append(sub)
+			result.append([l[i]] + sub)
+	return result
+
+def computeConf(LHS, RHS, transactions):
+	nofLHS = sum([1 for t in transactions if reduce(lambda x,y: x and y, [True if e in t else False for e in LHS])])
+	nofLHSandRHS = sum([1 for t in transactions if reduce(lambda x,y: x and y, [True if e in t else False for e in LHS]) and reduce(lambda x,y: x and y, [True if e in t else False for e in RHS])])
+	return nofLHSandRHS / float(nofLHS)
+
+def computeSupp(LHS, RHS, transactions):
+	return sum([1 for t in transactions if reduce(lambda x,y: x and y, [True if e in t else False for e in LHS]) and reduce(lambda x,y: x and y, [True if e in t else False for e in RHS])]) / float(len(transactions))
+
+def generateRules(L, minconf, transactions):
+	rules = []
+	for l in L:
+		nnemptysub = generateNonEmptySubsets(l['itemset'])
+		for LHS,RHS in nnemptysub:
+			if computeConf(LHS, RHS, transactions) >= minconf:
+				rules.append([LHS,RHS])
+	return sorted([{'supp': computeSupp(LHS, RHS, transactions), 'conf': computeConf(LHS, RHS, transactions), 'rule': '[' + ','.join(LHS) + '] => [' + ','.join(RHS) + ']' } for LHS, RHS in rules], key=lambda x: (-x['conf'], x['rule']))
+
+def printOutput(L, rules, minsup, minconf, transactions):
 	with open('output.txt', 'w') as f:
-		print '==Frequent itemsets (min_sup=' + str(int(minsup*100)) + '%)'
+		f.write( '==Frequent itemsets (min_sup=' + str(int(minsup*100)) + '%)\n' )
 		for item in L:
-			print '[' + ','.join(item['itemset']) + '], ' + str(int(item['count']*100 / float(len(transactions)))) + '%'
+			f.write( '[' + ','.join(item['itemset']) + '], ' + str(int(item['count']*100 / float(len(transactions)))) + '%\n' )
+		f.write( '\n==High-confidence association rules (min_conf=' + str(int(minconf*100)) + '%)\n' )
+		for rule in rules:
+			f.write( rule['rule'] + ' (Conf: ' + str(int(rule['conf']*100)) + '%, Supp: ' + str(int(rule['supp']*100)) + '%)\n' )
 
 def main():
 	# Handle options
@@ -92,8 +136,11 @@ def main():
 	# Apply Apriori algorithm to find all large itemsets
 	L = apriori(totalitems, transactions, minsup)
 
-	# Print first part of output
-	printFirstPart(L, minsup, transactions)
+	# Use large itemsets to generate the desired rules
+	rules = generateRules(L, minconf, transactions)
+
+	# Print output
+	printOutput(L, rules, minsup, minconf, transactions)
 	
 
 
