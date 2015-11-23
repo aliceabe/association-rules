@@ -1,10 +1,1317 @@
 ==Frequent itemsets (min_sup=70%)
-[pen], 100%
-[diary], 75%
-[diary,pen], 75%
-[ink], 75%
-[ink,pen], 75%
+[currentasthma07-2], 94%
+[twoplussoda-2], 92%
+[firsttolddepression07-2], 92%
+[didntgetcare07-2], 89%
+[anymedvisit12m-1], 89%
+[diabetes07-2], 88%
+[heavydrink07-2], 88%
+[currentasthma07-2,firsttolddepression07-2], 87%
+[currentasthma07-2,twoplussoda-2], 87%
+[currentasthma07-2,everasthma-2], 86%
+[everasthma-2], 86%
+[firsttolddepression07-2,twoplussoda-2], 85%
+[recommendedhivtest07-2], 85%
+[cholesterol5yrs07-1], 84%
+[currentasthma07-2,didntgetcare07-2], 84%
+[currentasthma07-2,diabetes07-2], 84%
+[sexualid-1], 84%
+[anymedvisit12m-1,currentasthma07-2], 83%
+[acinhome-1], 83%
+[pcp07-1], 83%
+[currentasthma07-2,heavydrink07-2], 83%
+[didntgetcare07-2,firsttolddepression07-2], 82%
+[didntgetmeds-2], 82%
+[firsttolddepression07-2,tolddepression-2], 82%
+[tolddepression-2], 82%
+[anymedvisit12m-1,twoplussoda-2], 82%
+[didntgetcare07-2,twoplussoda-2], 82%
+[didntgetdental-2], 82%
+[diabetes07-2,firsttolddepression07-2], 82%
+[fmd-1], 81%
+[cycling07-4], 81%
+[currentasthma07-2,firsttolddepression07-2,twoplussoda-2], 81%
+[heavydrink07-2,twoplussoda-2], 81%
+[binge07-2], 81%
+[anymedvisit12m-1,firsttolddepression07-2], 81%
+[diabetes07-2,twoplussoda-2], 81%
+[firsttolddepression07-2,heavydrink07-2], 81%
+[currentasthma07-2,everasthma-2,firsttolddepression07-2], 80%
+[everasthma-2,firsttolddepression07-2], 80%
+[currentasthma07-2,recommendedhivtest07-2], 80%
+[currentasthma07-2,everasthma-2,twoplussoda-2], 80%
+[everasthma-2,twoplussoda-2], 80%
+[cholesterol5yrs07-1,currentasthma07-2], 80%
+[anymedvisit12m-1,didntgetcare07-2], 80%
+[currentasthma07-2,sexualid-1], 79%
+[binge07-2,heavydrink07-2], 79%
+[currentasthma07-2,firsttolddepression07-2,tolddepression-2], 79%
+[currentasthma07-2,tolddepression-2], 79%
+[currentasthma07-2,didntgetcare07-2,firsttolddepression07-2], 79%
+[cholesterol5yrs07-1,twoplussoda-2], 79%
+[acinhome-1,currentasthma07-2], 79%
+[firsttolddepression07-2,recommendedhivtest07-2], 79%
+[recommendedhivtest07-2,twoplussoda-2], 79%
+[currentasthma07-2,didntgetmeds-2], 79%
+[diabetes07-2,didntgetcare07-2], 78%
+[anymedvisit12m-1,cholesterol5yrs07-1], 78%
+[anymedvisit12m-1,heavydrink07-2], 78%
+[didntgetcare07-2,heavydrink07-2], 78%
+[currentasthma07-2,pcp07-1], 78%
+[anymedvisit12m-1,pcp07-1], 78%
+[currentasthma07-2,didntgetcare07-2,twoplussoda-2], 78%
+[currentasthma07-2,diabetes07-2,firsttolddepression07-2], 78%
+[currentasthma07-2,didntgetdental-2], 78%
+[firsttolddepression07-2,sexualid-1], 78%
+[anymedvisit12m-1,currentasthma07-2,twoplussoda-2], 78%
+[cholesterol5yrs07-1,firsttolddepression07-2], 78%
+[currentasthma07-2,fmd-1], 78%
+[firsttolddepression07-2,fmd-1], 77%
+[heavydrink07-2,recommendedhivtest07-2], 77%
+[anymedvisit12m-1,diabetes07-2], 77%
+[sexualid-1,twoplussoda-2], 77%
+[didntgetmeds-2,heavydrink07-2], 77%
+[dphonew06-4], 77%
+[currentasthma07-2,didntgetcare07-2,everasthma-2], 77%
+[didntgetcare07-2,everasthma-2], 77%
+[currentasthma07-2,diabetes07-2,twoplussoda-2], 77%
+[pcp07-1,twoplussoda-2], 77%
+[diabetes07-2,heavydrink07-2], 77%
+[acinhome-1,twoplussoda-2], 77%
+[anymedvisit12m-1,currentasthma07-2,firsttolddepression07-2], 77%
+[currentasthma07-2,firsttolddepression07-2,heavydrink07-2], 77%
+[acinhome-1,firsttolddepression07-2], 77%
+[currentasthma07-2,cycling07-4], 77%
+[currentasthma07-2,heavydrink07-2,twoplussoda-2], 77%
+[didntgetdental-2,heavydrink07-2], 77%
+[binge07-2,currentasthma07-2], 77%
+[currentasthma07-2,diabetes07-2,everasthma-2], 77%
+[diabetes07-2,everasthma-2], 77%
+[didntgetmeds-2,firsttolddepression07-2], 77%
+[didntgetcare07-2,firsttolddepression07-2,twoplussoda-2], 77%
+[firsttolddepression07-2,tolddepression-2,twoplussoda-2], 76%
+[tolddepression-2,twoplussoda-2], 76%
+[didntgetmeds-2,twoplussoda-2], 76%
+[firsttolddepression07-2,pcp07-1], 76%
+[didntgetdental-2,twoplussoda-2], 76%
+[cholesterol5yrs07-1,didntgetcare07-2], 76%
+[anymedvisit12m-1,currentasthma07-2,everasthma-2], 76%
+[anymedvisit12m-1,everasthma-2], 76%
+[didntgetdental-2,firsttolddepression07-2], 76%
+[didntgetcare07-2,didntgetmeds-2], 76%
+[didntgetcare07-2,recommendedhivtest07-2], 76%
+[fmd-1,twoplussoda-2], 76%
+[cycling07-4,twoplussoda-2], 76%
+[anymedvisit12m-1,firsttolddepression07-2,twoplussoda-2], 76%
+[currentasthma07-2,everasthma-2,heavydrink07-2], 76%
+[didntgetcare07-2,didntgetdental-2], 76%
+[everasthma-2,heavydrink07-2], 76%
+[diabetes07-2,firsttolddepression07-2,twoplussoda-2], 75%
+[didntgetdental-2,didntgetmeds-2], 75%
+[binge07-2,twoplussoda-2], 75%
+[anymedvisit12m-1,currentasthma07-2,didntgetcare07-2], 75%
+[acinhome-1,heavydrink07-2], 75%
+[didntgetcare07-2,pcp07-1], 75%
+[anymedvisit12m-1,recommendedhivtest07-2], 75%
+[anymedvisit12m-1,pcp07-1,visitpcp12m-1], 75%
+[anymedvisit12m-1,visitpcp12m-1], 75%
+[pcp07-1,visitpcp12m-1], 75%
+[visitpcp12m-1], 75%
+[firsttolddepression07-2,heavydrink07-2,twoplussoda-2], 75%
+[binge07-2,currentasthma07-2,heavydrink07-2], 75%
+[cholesterol5yrs07-1,heavydrink07-2], 75%
+[diabetes07-2,recommendedhivtest07-2], 75%
+[currentasthma07-2,firsttolddepression07-2,recommendedhivtest07-2], 75%
+[didntgetcare07-2,sexualid-1], 75%
+[currentasthma07-2,diabetes07-2,didntgetcare07-2], 75%
+[anymedvisit12m-1,sexualid-1], 75%
+[acinhome-1,anymedvisit12m-1], 75%
+[didntgetcare07-2,firsttolddepression07-2,tolddepression-2], 75%
+[didntgetcare07-2,tolddepression-2], 75%
+[cycling07-4,firsttolddepression07-2], 75%
+[currentasthma07-2,everasthma-2,firsttolddepression07-2,twoplussoda-2], 75%
+[everasthma-2,firsttolddepression07-2,twoplussoda-2], 75%
+[acinhome-1,didntgetcare07-2], 75%
+[currentasthma07-2,recommendedhivtest07-2,twoplussoda-2], 75%
+[binge07-2,firsttolddepression07-2], 74%
+[currentasthma07-2,didntgetcare07-2,heavydrink07-2], 74%
+[cholesterol5yrs07-1,currentasthma07-2,twoplussoda-2], 74%
+[diabetes07-2,sexualid-1], 74%
+[heavydrink07-2,sexualid-1], 74%
+[currentasthma07-2,firsttolddepression07-2,sexualid-1], 74%
+[currentasthma07-2,firsttolddepression07-2,fmd-1], 74%
+[didntgetcare07-2,fmd-1], 74%
+[anymedvisit12m-1,didntgetcare07-2,twoplussoda-2], 74%
+[acinhome-1,diabetes07-2], 74%
+[anymedvisit12m-1,currentasthma07-2,heavydrink07-2], 74%
+[cholesterol5yrs07-1,currentasthma07-2,firsttolddepression07-2], 74%
+[anymedvisit12m-1,cholesterol5yrs07-1,currentasthma07-2], 74%
+[currentasthma07-2,didntgetmeds-2,firsttolddepression07-2], 74%
+[currentasthma07-2,didntgetmeds-2,heavydrink07-2], 74%
+[anymedvisit12m-1,didntgetdental-2], 74%
+[diabetes07-2,firsttolddepression07-2,tolddepression-2], 74%
+[diabetes07-2,tolddepression-2], 74%
+[anymedvisit12m-1,currentasthma07-2,pcp07-1], 74%
+[cholesterol5yrs07-1,pcp07-1], 74%
+[binge07-2,heavydrink07-2,twoplussoda-2], 74%
+[cholesterol5yrs07-1,diabetes07-2], 73%
+[anymedvisit12m-1,didntgetcare07-2,firsttolddepression07-2], 73%
+[athomelang07-1], 73%
+[currentasthma07-2,sexualid-1,twoplussoda-2], 73%
+[diabetes07-2,didntgetcare07-2,firsttolddepression07-2], 73%
+[currentasthma07-2,firsttolddepression07-2,tolddepression-2,twoplussoda-2], 73%
+[currentasthma07-2,tolddepression-2,twoplussoda-2], 73%
+[anymedvisit12m-1,cycling07-4], 73%
+[currentasthma07-2,didntgetcare07-2,firsttolddepression07-2,twoplussoda-2], 73%
+[heavydrink07-2,pcp07-1], 73%
+[currentasthma07-2,everasthma-2,recommendedhivtest07-2], 73%
+[everasthma-2,recommendedhivtest07-2], 73%
+[currentasthma07-2,diabetes07-2,heavydrink07-2], 73%
+[acinhome-1,currentasthma07-2,firsttolddepression07-2], 73%
+[anymedvisit12m-1,cholesterol5yrs07-1,twoplussoda-2], 73%
+[currentasthma07-2,heavydrink07-2,recommendedhivtest07-2], 73%
+[currentasthma07-2,dphonew06-4], 73%
+[anymedvisit12m-1,currentasthma07-2,diabetes07-2], 73%
+[anymedvisit12m-1,didntgetmeds-2], 73%
+[firsttolddepression07-2,recommendedhivtest07-2,twoplussoda-2], 73%
+[diabetes07-2,didntgetmeds-2], 73%
+[anymedvisit12m-1,binge07-2], 73%
+[currentasthma07-2,didntgetdental-2,heavydrink07-2], 73%
+[acinhome-1,currentasthma07-2,twoplussoda-2], 73%
+[acinhome-1,recommendedhivtest07-2], 73%
+[currentasthma07-2,didntgetmeds-2,twoplussoda-2], 73%
+[anymedvisit12m-1,pcp07-1,twoplussoda-2], 73%
+[currentasthma07-2,pcp07-1,twoplussoda-2], 73%
+[didntgetmeds-2,recommendedhivtest07-2], 73%
+[cycling07-4,didntgetcare07-2], 73%
+[anymedvisit12m-1,heavydrink07-2,twoplussoda-2], 73%
+[currentasthma07-2,everasthma-2,firsttolddepression07-2,tolddepression-2], 73%
+[currentasthma07-2,everasthma-2,tolddepression-2], 73%
+[everasthma-2,firsttolddepression07-2,tolddepression-2], 73%
+[everasthma-2,tolddepression-2], 73%
+[didntgetcare07-2,firsttolddepression07-2,heavydrink07-2], 73%
+[binge07-2,firsttolddepression07-2,heavydrink07-2], 73%
+[diabetes07-2,fmd-1], 73%
+[binge07-2,didntgetcare07-2], 73%
+[currentasthma07-2,didntgetdental-2,firsttolddepression07-2], 73%
+[didntgetcare07-2,heavydrink07-2,twoplussoda-2], 73%
+[cholesterol5yrs07-1,firsttolddepression07-2,twoplussoda-2], 73%
+[currentasthma07-2,firsttolddepression07-2,pcp07-1], 73%
+[recommendedhivtest07-2,sexualid-1], 72%
+[currentasthma07-2,didntgetcare07-2,everasthma-2,firsttolddepression07-2], 72%
+[currentasthma07-2,didntgetdental-2,twoplussoda-2], 72%
+[didntgetcare07-2,everasthma-2,firsttolddepression07-2], 72%
+[anymedvisit12m-1,firsttolddepression07-2,tolddepression-2], 72%
+[anymedvisit12m-1,tolddepression-2], 72%
+[cholesterol5yrs07-1,currentasthma07-2,everasthma-2], 72%
+[cholesterol5yrs07-1,everasthma-2], 72%
+[anymedvisit12m-1,fmd-1], 72%
+[currentasthma07-2,didntgetcare07-2,didntgetmeds-2], 72%
+[firsttolddepression07-2,heavydrink07-2,tolddepression-2], 72%
+[heavydrink07-2,tolddepression-2], 72%
+[diabetes07-2,didntgetcare07-2,twoplussoda-2], 72%
+[currentasthma07-2,everasthma-2,sexualid-1], 72%
+[everasthma-2,sexualid-1], 72%
+[insuredallyr-1], 72%
+[diabetes07-2,pcp07-1], 72%
+[didntgetdental-2,recommendedhivtest07-2], 72%
+[cholesterol5yrs07-1,recommendedhivtest07-2], 72%
+[diabetes07-2,didntgetdental-2], 72%
+[dphonew06-4,twoplussoda-2], 72%
+[currentasthma07-2,diabetes07-2,firsttolddepression07-2,twoplussoda-2], 72%
+[fmd-1,heavydrink07-2], 72%
+[currentasthma07-2,fmd-1,twoplussoda-2], 72%
+[firsttolddepression07-2,fmd-1,twoplussoda-2], 72%
+[currentasthma07-2,didntgetdental-2,didntgetmeds-2], 72%
+[cholesterol5yrs07-1,currentasthma07-2,didntgetcare07-2], 72%
+[currentasthma07-2,didntgetcare07-2,recommendedhivtest07-2], 72%
+[currentasthma07-2,didntgetmeds-2,everasthma-2], 72%
+[didntgetmeds-2,everasthma-2], 72%
+[currentasthma07-2,didntgetcare07-2,didntgetdental-2], 72%
+[firsttolddepression07-2,sexualid-1,twoplussoda-2], 72%
+[acinhome-1,currentasthma07-2,everasthma-2], 72%
+[acinhome-1,everasthma-2], 72%
+[cycling07-4,heavydrink07-2], 72%
+[firsttolddepression07-2,heavydrink07-2,recommendedhivtest07-2], 72%
+[currentasthma07-2,diabetes07-2,everasthma-2,firsttolddepression07-2], 72%
+[diabetes07-2,everasthma-2,firsttolddepression07-2], 72%
+[didntgetmeds-2,firsttolddepression07-2,heavydrink07-2], 72%
+[anymedvisit12m-1,currentasthma07-2,firsttolddepression07-2,twoplussoda-2], 72%
+[heavydrink07-2,recommendedhivtest07-2,twoplussoda-2], 72%
+[anymedvisit12m-1,firsttolddepression07-2,heavydrink07-2], 72%
+[anymedvisit12m-1,cholesterol5yrs07-1,firsttolddepression07-2], 72%
+[diabetes07-2,firsttolddepression07-2,heavydrink07-2], 72%
+[anymedvisit12m-1,firsttolddepression07-2,pcp07-1], 72%
+[dphonew06-4,firsttolddepression07-2], 72%
+[currentasthma07-2,didntgetcare07-2,firsttolddepression07-2,tolddepression-2], 72%
+[currentasthma07-2,didntgetcare07-2,tolddepression-2], 72%
+[cholesterol5yrs07-1,sexualid-1], 72%
+[didntgetmeds-2,heavydrink07-2,twoplussoda-2], 72%
+[currentasthma07-2,didntgetcare07-2,everasthma-2,twoplussoda-2], 72%
+[didntgetcare07-2,everasthma-2,twoplussoda-2], 72%
+[binge07-2,recommendedhivtest07-2], 72%
+[currentasthma07-2,firsttolddepression07-2,heavydrink07-2,twoplussoda-2], 72%
+[binge07-2,didntgetmeds-2], 72%
+[anymedvisit12m-1,diabetes07-2,twoplussoda-2], 72%
+[acinhome-1,firsttolddepression07-2,twoplussoda-2], 71%
+[binge07-2,currentasthma07-2,twoplussoda-2], 71%
+[currentasthma07-2,cycling07-4,twoplussoda-2], 71%
+[anymedvisit12m-1,binge07-2,heavydrink07-2], 71%
+[didntgetdental-2,heavydrink07-2,twoplussoda-2], 71%
+[acinhome-1,cholesterol5yrs07-1], 71%
+[currentasthma07-2,didntgetcare07-2,sexualid-1], 71%
+[anymedvisit12m-1,diabetes07-2,firsttolddepression07-2], 71%
+[currentasthma07-2,didntgetdental-2,everasthma-2], 71%
+[didntgetdental-2,everasthma-2], 71%
+[didntgetmeds-2,firsttolddepression07-2,twoplussoda-2], 71%
+[firsttolddepression07-2,pcp07-1,twoplussoda-2], 71%
+[binge07-2,didntgetdental-2], 71%
+[currentasthma07-2,diabetes07-2,recommendedhivtest07-2], 71%
+[currentasthma07-2,everasthma-2,fmd-1], 71%
+[everasthma-2,fmd-1], 71%
+[currentasthma07-2,didntgetcare07-2,pcp07-1], 71%
+[didntgetdental-2,firsttolddepression07-2,heavydrink07-2], 71%
+[acinhome-1,currentasthma07-2,heavydrink07-2], 71%
+[didntgetcare07-2,didntgetmeds-2,heavydrink07-2], 71%
+[diabetes07-2,heavydrink07-2,twoplussoda-2], 71%
+[anymedvisit12m-1,didntgetcare07-2,pcp07-1], 71%
+[binge07-2,currentasthma07-2,firsttolddepression07-2], 71%
+[currentasthma07-2,everasthma-2,pcp07-1], 71%
+[everasthma-2,pcp07-1], 71%
+[binge07-2,diabetes07-2], 71%
+[currentasthma07-2,cycling07-4,firsttolddepression07-2], 71%
+[currentasthma07-2,diabetes07-2,everasthma-2,twoplussoda-2], 71%
+[diabetes07-2,everasthma-2,twoplussoda-2], 71%
+[binge07-2,didntgetcare07-2,heavydrink07-2], 71%
+[acinhome-1,didntgetdental-2], 71%
+[didntgetcare07-2,didntgetmeds-2,firsttolddepression07-2], 71%
+[cholesterol5yrs07-1,didntgetcare07-2,twoplussoda-2], 71%
+[anymedvisit12m-1,cholesterol5yrs07-1,didntgetcare07-2], 71%
+[acinhome-1,sexualid-1], 71%
+[didntgetcare07-2,firsttolddepression07-2,recommendedhivtest07-2], 71%
+[cycling07-4,diabetes07-2], 71%
+[pcp07-1,sexualid-1], 71%
+[acinhome-1,currentasthma07-2,didntgetcare07-2], 71%
+[didntgetcare07-2,didntgetdental-2,heavydrink07-2], 71%
+[acinhome-1,didntgetmeds-2], 71%
+[currentasthma07-2,diabetes07-2,sexualid-1], 71%
+[pcp07-1,recommendedhivtest07-2], 71%
+[didntgetdental-2,didntgetmeds-2,heavydrink07-2], 71%
+[anymedvisit12m-1,currentasthma07-2,everasthma-2,twoplussoda-2], 71%
+[anymedvisit12m-1,everasthma-2,twoplussoda-2], 71%
+[firsttolddepression07-2,fmd-1,tolddepression-2], 71%
+[fmd-1,tolddepression-2], 71%
+[anymedvisit12m-1,currentasthma07-2,recommendedhivtest07-2], 71%
+[anymedvisit12m-1,currentasthma07-2,sexualid-1], 71%
+[didntgetcare07-2,firsttolddepression07-2,fmd-1], 71%
+[cholesterol5yrs07-1,currentasthma07-2,heavydrink07-2], 71%
+[currentasthma07-2,diabetes07-2,firsttolddepression07-2,tolddepression-2], 71%
+[currentasthma07-2,diabetes07-2,tolddepression-2], 71%
+[didntgetdental-2,firsttolddepression07-2,twoplussoda-2], 71%
+[didntgetcare07-2,didntgetdental-2,didntgetmeds-2], 71%
+[currentasthma07-2,didntgetcare07-2,fmd-1], 71%
+[anymedvisit12m-1,currentasthma07-2,pcp07-1,visitpcp12m-1], 71%
+[anymedvisit12m-1,currentasthma07-2,visitpcp12m-1], 71%
+[currentasthma07-2,pcp07-1,visitpcp12m-1], 71%
+[currentasthma07-2,visitpcp12m-1], 71%
+[anymedvisit12m-1,cholesterol5yrs07-1,pcp07-1], 71%
+[anymedvisit12m-1,didntgetcare07-2,heavydrink07-2], 70%
+[didntgetmeds-2,sexualid-1], 70%
+[firsttolddepression07-2,recommendedhivtest07-2,tolddepression-2], 70%
+[recommendedhivtest07-2,tolddepression-2], 70%
+[didntgetcare07-2,recommendedhivtest07-2,twoplussoda-2], 70%
+[currentasthma07-2,everasthma-2,firsttolddepression07-2,heavydrink07-2], 70%
+[everasthma-2,firsttolddepression07-2,heavydrink07-2], 70%
+[currentasthma07-2,cycling07-4,everasthma-2], 70%
+[currentasthma07-2,heavydrink07-2,sexualid-1], 70%
+[cycling07-4,everasthma-2], 70%
+[didntgetcare07-2,didntgetdental-2,firsttolddepression07-2], 70%
+[currentasthma07-2,diabetes07-2,didntgetcare07-2,firsttolddepression07-2], 70%
+[acinhome-1,pcp07-1], 70%
+[cholesterol5yrs07-1,didntgetcare07-2,firsttolddepression07-2], 70%
+[cholesterol5yrs07-1,didntgetdental-2], 70%
+[anymedvisit12m-1,currentasthma07-2,everasthma-2,firsttolddepression07-2], 70%
+[anymedvisit12m-1,everasthma-2,firsttolddepression07-2], 70%
+[didntgetcare07-2,didntgetmeds-2,twoplussoda-2], 70%
+[acinhome-1,anymedvisit12m-1,currentasthma07-2], 70%
+[didntgetdental-2,didntgetmeds-2,firsttolddepression07-2], 70%
+[currentasthma07-2,everasthma-2,heavydrink07-2,twoplussoda-2], 70%
+[everasthma-2,heavydrink07-2,twoplussoda-2], 70%
+[didntgetcare07-2,didntgetdental-2,twoplussoda-2], 70%
+[acinhome-1,currentasthma07-2,diabetes07-2], 70%
+[didntgetcare07-2,firsttolddepression07-2,sexualid-1], 70%
+[anymedvisit12m-1,pcp07-1,twoplussoda-2,visitpcp12m-1], 70%
+[anymedvisit12m-1,twoplussoda-2,visitpcp12m-1], 70%
+[didntgetdental-2,didntgetmeds-2,twoplussoda-2], 70%
+[pcp07-1,twoplussoda-2,visitpcp12m-1], 70%
+[twoplussoda-2,visitpcp12m-1], 70%
+[anymedvisit12m-1,currentasthma07-2,didntgetcare07-2,firsttolddepression07-2], 70%
+[didntgetcare07-2,pcp07-1,twoplussoda-2], 70%
+[anymedvisit12m-1,currentasthma07-2,didntgetcare07-2,twoplussoda-2], 70%
+[binge07-2,currentasthma07-2,everasthma-2], 70%
+[binge07-2,everasthma-2], 70%
+[currentasthma07-2,diabetes07-2,didntgetmeds-2], 70%
+[diabetes07-2,firsttolddepression07-2,recommendedhivtest07-2], 70%
+[fmd-1,sexualid-1], 70%
+[anymedvisit12m-1,recommendedhivtest07-2,twoplussoda-2], 70%
+[firsttolddepression07-2,sexualid-1,tolddepression-2], 70%
+[sexualid-1,tolddepression-2], 70%
+[cholesterol5yrs07-1,heavydrink07-2,twoplussoda-2], 70%
+[binge07-2,heavydrink07-2,recommendedhivtest07-2], 70%
+[cholesterol5yrs07-1,didntgetmeds-2], 70%
+[didntgetdental-2,sexualid-1], 70%
+[binge07-2,cholesterol5yrs07-1], 70%
+[fmd-1,recommendedhivtest07-2], 70%
+[binge07-2,didntgetmeds-2,heavydrink07-2], 70%
+[currentasthma07-2,firsttolddepression07-2,recommendedhivtest07-2,twoplussoda-2], 70%
+[anymedvisit12m-1,currentasthma07-2,didntgetdental-2], 70%
+[cholesterol5yrs07-1,cycling07-4], 70%
+[binge07-2,currentasthma07-2,heavydrink07-2,twoplussoda-2], 70%
+[acinhome-1,heavydrink07-2,twoplussoda-2], 70%
+[cholesterol5yrs07-1,currentasthma07-2,diabetes07-2], 70%
+[currentasthma07-2,didntgetcare07-2,firsttolddepression07-2,heavydrink07-2], 70%
+[didntgetcare07-2,firsttolddepression07-2,pcp07-1], 70%
+[currentasthma07-2,didntgetmeds-2,recommendedhivtest07-2], 70%
+[cholesterol5yrs07-1,fmd-1], 70%
+[anymedvisit12m-1,cholesterol5yrs07-1,heavydrink07-2], 70%
+[acinhome-1,anymedvisit12m-1,twoplussoda-2], 70%
+[acinhome-1,firsttolddepression07-2,heavydrink07-2], 70%
+[anymedvisit12m-1,diabetes07-2,didntgetcare07-2], 70%
+[anymedvisit12m-1,currentasthma07-2,didntgetmeds-2], 70%
 
 ==High-confidence association rules (min_conf=80%)
-[diary] => [pen] (Conf: 100%, Supp: 75%)
-[ink] => [pen] (Conf: 100%, Supp: 75%)
+[acinhome-1,everasthma-2] => [currentasthma07-2] (Conf: 100%, Supp: 72%)
+[anymedvisit12m-1,currentasthma07-2,visitpcp12m-1] => [pcp07-1] (Conf: 100%, Supp: 71%)
+[anymedvisit12m-1,everasthma-2,firsttolddepression07-2] => [currentasthma07-2] (Conf: 100%, Supp: 70%)
+[anymedvisit12m-1,everasthma-2,twoplussoda-2] => [currentasthma07-2] (Conf: 100%, Supp: 71%)
+[anymedvisit12m-1,everasthma-2] => [currentasthma07-2] (Conf: 100%, Supp: 76%)
+[anymedvisit12m-1,tolddepression-2] => [firsttolddepression07-2] (Conf: 100%, Supp: 72%)
+[anymedvisit12m-1,twoplussoda-2,visitpcp12m-1] => [pcp07-1] (Conf: 100%, Supp: 70%)
+[anymedvisit12m-1,visitpcp12m-1] => [pcp07-1] (Conf: 100%, Supp: 75%)
+[binge07-2,everasthma-2] => [currentasthma07-2] (Conf: 100%, Supp: 70%)
+[cholesterol5yrs07-1,everasthma-2] => [currentasthma07-2] (Conf: 100%, Supp: 72%)
+[currentasthma07-2,diabetes07-2,tolddepression-2] => [firsttolddepression07-2] (Conf: 100%, Supp: 71%)
+[currentasthma07-2,didntgetcare07-2,tolddepression-2] => [firsttolddepression07-2] (Conf: 100%, Supp: 72%)
+[currentasthma07-2,everasthma-2,tolddepression-2] => [firsttolddepression07-2] (Conf: 100%, Supp: 73%)
+[currentasthma07-2,pcp07-1,visitpcp12m-1] => [anymedvisit12m-1] (Conf: 100%, Supp: 71%)
+[currentasthma07-2,tolddepression-2,twoplussoda-2] => [firsttolddepression07-2] (Conf: 100%, Supp: 73%)
+[currentasthma07-2,tolddepression-2] => [firsttolddepression07-2] (Conf: 100%, Supp: 79%)
+[currentasthma07-2,visitpcp12m-1] => [anymedvisit12m-1] (Conf: 100%, Supp: 71%)
+[currentasthma07-2,visitpcp12m-1] => [pcp07-1] (Conf: 100%, Supp: 71%)
+[cycling07-4,everasthma-2] => [currentasthma07-2] (Conf: 100%, Supp: 70%)
+[diabetes07-2,everasthma-2,firsttolddepression07-2] => [currentasthma07-2] (Conf: 100%, Supp: 72%)
+[diabetes07-2,everasthma-2,twoplussoda-2] => [currentasthma07-2] (Conf: 100%, Supp: 71%)
+[diabetes07-2,everasthma-2] => [currentasthma07-2] (Conf: 100%, Supp: 77%)
+[diabetes07-2,tolddepression-2] => [firsttolddepression07-2] (Conf: 100%, Supp: 74%)
+[didntgetcare07-2,everasthma-2,firsttolddepression07-2] => [currentasthma07-2] (Conf: 100%, Supp: 72%)
+[didntgetcare07-2,everasthma-2,twoplussoda-2] => [currentasthma07-2] (Conf: 100%, Supp: 72%)
+[didntgetcare07-2,everasthma-2] => [currentasthma07-2] (Conf: 100%, Supp: 77%)
+[didntgetcare07-2,tolddepression-2] => [firsttolddepression07-2] (Conf: 100%, Supp: 75%)
+[didntgetdental-2,everasthma-2] => [currentasthma07-2] (Conf: 100%, Supp: 71%)
+[didntgetmeds-2,everasthma-2] => [currentasthma07-2] (Conf: 100%, Supp: 72%)
+[everasthma-2,firsttolddepression07-2,heavydrink07-2] => [currentasthma07-2] (Conf: 100%, Supp: 70%)
+[everasthma-2,firsttolddepression07-2,tolddepression-2] => [currentasthma07-2] (Conf: 100%, Supp: 73%)
+[everasthma-2,firsttolddepression07-2,twoplussoda-2] => [currentasthma07-2] (Conf: 100%, Supp: 75%)
+[everasthma-2,firsttolddepression07-2] => [currentasthma07-2] (Conf: 100%, Supp: 80%)
+[everasthma-2,fmd-1] => [currentasthma07-2] (Conf: 100%, Supp: 71%)
+[everasthma-2,heavydrink07-2,twoplussoda-2] => [currentasthma07-2] (Conf: 100%, Supp: 70%)
+[everasthma-2,heavydrink07-2] => [currentasthma07-2] (Conf: 100%, Supp: 76%)
+[everasthma-2,pcp07-1] => [currentasthma07-2] (Conf: 100%, Supp: 71%)
+[everasthma-2,recommendedhivtest07-2] => [currentasthma07-2] (Conf: 100%, Supp: 73%)
+[everasthma-2,sexualid-1] => [currentasthma07-2] (Conf: 100%, Supp: 72%)
+[everasthma-2,tolddepression-2] => [currentasthma07-2] (Conf: 100%, Supp: 73%)
+[everasthma-2,tolddepression-2] => [firsttolddepression07-2] (Conf: 100%, Supp: 73%)
+[everasthma-2,twoplussoda-2] => [currentasthma07-2] (Conf: 100%, Supp: 80%)
+[everasthma-2] => [currentasthma07-2] (Conf: 100%, Supp: 86%)
+[fmd-1,tolddepression-2] => [firsttolddepression07-2] (Conf: 100%, Supp: 71%)
+[heavydrink07-2,tolddepression-2] => [firsttolddepression07-2] (Conf: 100%, Supp: 72%)
+[pcp07-1,twoplussoda-2,visitpcp12m-1] => [anymedvisit12m-1] (Conf: 100%, Supp: 70%)
+[pcp07-1,visitpcp12m-1] => [anymedvisit12m-1] (Conf: 100%, Supp: 75%)
+[recommendedhivtest07-2,tolddepression-2] => [firsttolddepression07-2] (Conf: 100%, Supp: 70%)
+[sexualid-1,tolddepression-2] => [firsttolddepression07-2] (Conf: 100%, Supp: 70%)
+[tolddepression-2,twoplussoda-2] => [firsttolddepression07-2] (Conf: 100%, Supp: 76%)
+[tolddepression-2] => [firsttolddepression07-2] (Conf: 100%, Supp: 82%)
+[twoplussoda-2,visitpcp12m-1] => [anymedvisit12m-1] (Conf: 100%, Supp: 70%)
+[twoplussoda-2,visitpcp12m-1] => [pcp07-1] (Conf: 100%, Supp: 70%)
+[visitpcp12m-1] => [anymedvisit12m-1] (Conf: 100%, Supp: 75%)
+[visitpcp12m-1] => [pcp07-1] (Conf: 100%, Supp: 75%)
+[binge07-2,firsttolddepression07-2] => [heavydrink07-2] (Conf: 97%, Supp: 73%)
+[binge07-2] => [heavydrink07-2] (Conf: 97%, Supp: 79%)
+[anymedvisit12m-1,binge07-2] => [heavydrink07-2] (Conf: 97%, Supp: 71%)
+[binge07-2,currentasthma07-2] => [heavydrink07-2] (Conf: 97%, Supp: 75%)
+[binge07-2,twoplussoda-2] => [heavydrink07-2] (Conf: 97%, Supp: 74%)
+[binge07-2,didntgetcare07-2] => [heavydrink07-2] (Conf: 97%, Supp: 71%)
+[binge07-2,recommendedhivtest07-2] => [heavydrink07-2] (Conf: 97%, Supp: 70%)
+[binge07-2,currentasthma07-2,twoplussoda-2] => [heavydrink07-2] (Conf: 97%, Supp: 70%)
+[binge07-2,didntgetmeds-2] => [heavydrink07-2] (Conf: 97%, Supp: 70%)
+[anymedvisit12m-1,pcp07-1,twoplussoda-2] => [visitpcp12m-1] (Conf: 96%, Supp: 70%)
+[didntgetcare07-2,firsttolddepression07-2,tolddepression-2] => [currentasthma07-2] (Conf: 96%, Supp: 72%)
+[didntgetcare07-2,tolddepression-2] => [currentasthma07-2] (Conf: 96%, Supp: 72%)
+[didntgetmeds-2,firsttolddepression07-2] => [currentasthma07-2] (Conf: 96%, Supp: 74%)
+[anymedvisit12m-1,pcp07-1] => [visitpcp12m-1] (Conf: 96%, Supp: 75%)
+[firsttolddepression07-2,tolddepression-2,twoplussoda-2] => [currentasthma07-2] (Conf: 95%, Supp: 73%)
+[tolddepression-2,twoplussoda-2] => [currentasthma07-2] (Conf: 95%, Supp: 73%)
+[diabetes07-2,firsttolddepression07-2,tolddepression-2] => [currentasthma07-2] (Conf: 95%, Supp: 71%)
+[diabetes07-2,tolddepression-2] => [currentasthma07-2] (Conf: 95%, Supp: 71%)
+[anymedvisit12m-1,currentasthma07-2,pcp07-1] => [visitpcp12m-1] (Conf: 95%, Supp: 71%)
+[cholesterol5yrs07-1,pcp07-1] => [anymedvisit12m-1] (Conf: 95%, Supp: 71%)
+[diabetes07-2,didntgetcare07-2,firsttolddepression07-2] => [currentasthma07-2] (Conf: 95%, Supp: 70%)
+[didntgetdental-2,firsttolddepression07-2] => [currentasthma07-2] (Conf: 95%, Supp: 73%)
+[firsttolddepression07-2,tolddepression-2] => [currentasthma07-2] (Conf: 95%, Supp: 79%)
+[tolddepression-2] => [currentasthma07-2] (Conf: 95%, Supp: 79%)
+[didntgetcare07-2,firsttolddepression07-2,twoplussoda-2] => [currentasthma07-2] (Conf: 95%, Supp: 73%)
+[diabetes07-2,didntgetmeds-2] => [currentasthma07-2] (Conf: 95%, Supp: 70%)
+[diabetes07-2,firsttolddepression07-2,twoplussoda-2] => [currentasthma07-2] (Conf: 95%, Supp: 72%)
+[didntgetcare07-2,firsttolddepression07-2] => [currentasthma07-2] (Conf: 95%, Supp: 79%)
+[didntgetcare07-2,firsttolddepression07-2,heavydrink07-2] => [currentasthma07-2] (Conf: 95%, Supp: 70%)
+[diabetes07-2,firsttolddepression07-2] => [currentasthma07-2] (Conf: 95%, Supp: 78%)
+[didntgetdental-2,didntgetmeds-2] => [currentasthma07-2] (Conf: 95%, Supp: 72%)
+[didntgetcare07-2,fmd-1] => [firsttolddepression07-2] (Conf: 95%, Supp: 71%)
+[didntgetmeds-2,twoplussoda-2] => [currentasthma07-2] (Conf: 95%, Supp: 73%)
+[firsttolddepression07-2,fmd-1] => [currentasthma07-2] (Conf: 95%, Supp: 74%)
+[didntgetcare07-2,didntgetmeds-2] => [currentasthma07-2] (Conf: 95%, Supp: 72%)
+[firsttolddepression07-2,sexualid-1] => [currentasthma07-2] (Conf: 95%, Supp: 74%)
+[didntgetmeds-2,recommendedhivtest07-2] => [currentasthma07-2] (Conf: 95%, Supp: 70%)
+[binge07-2,firsttolddepression07-2] => [currentasthma07-2] (Conf: 95%, Supp: 71%)
+[currentasthma07-2,fmd-1] => [firsttolddepression07-2] (Conf: 95%, Supp: 74%)
+[firsttolddepression07-2,heavydrink07-2,twoplussoda-2] => [currentasthma07-2] (Conf: 95%, Supp: 72%)
+[firsttolddepression07-2,twoplussoda-2] => [currentasthma07-2] (Conf: 95%, Supp: 81%)
+[firsttolddepression07-2,recommendedhivtest07-2,twoplussoda-2] => [currentasthma07-2] (Conf: 95%, Supp: 70%)
+[didntgetcare07-2,fmd-1] => [currentasthma07-2] (Conf: 95%, Supp: 71%)
+[diabetes07-2,didntgetcare07-2] => [currentasthma07-2] (Conf: 95%, Supp: 75%)
+[didntgetmeds-2,heavydrink07-2] => [currentasthma07-2] (Conf: 95%, Supp: 74%)
+[didntgetmeds-2] => [currentasthma07-2] (Conf: 95%, Supp: 79%)
+[didntgetcare07-2,didntgetdental-2] => [currentasthma07-2] (Conf: 95%, Supp: 72%)
+[anymedvisit12m-1,didntgetcare07-2,firsttolddepression07-2] => [currentasthma07-2] (Conf: 95%, Supp: 70%)
+[diabetes07-2,sexualid-1] => [currentasthma07-2] (Conf: 95%, Supp: 71%)
+[firsttolddepression07-2] => [currentasthma07-2] (Conf: 95%, Supp: 87%)
+[acinhome-1,firsttolddepression07-2] => [currentasthma07-2] (Conf: 95%, Supp: 73%)
+[firsttolddepression07-2,heavydrink07-2] => [currentasthma07-2] (Conf: 95%, Supp: 77%)
+[firsttolddepression07-2,recommendedhivtest07-2] => [currentasthma07-2] (Conf: 95%, Supp: 75%)
+[fmd-1,twoplussoda-2] => [currentasthma07-2] (Conf: 95%, Supp: 72%)
+[fmd-1,twoplussoda-2] => [firsttolddepression07-2] (Conf: 95%, Supp: 72%)
+[didntgetcare07-2,sexualid-1] => [currentasthma07-2] (Conf: 95%, Supp: 71%)
+[didntgetdental-2,twoplussoda-2] => [currentasthma07-2] (Conf: 95%, Supp: 72%)
+[diabetes07-2,twoplussoda-2] => [currentasthma07-2] (Conf: 95%, Supp: 77%)
+[cycling07-4,firsttolddepression07-2] => [currentasthma07-2] (Conf: 95%, Supp: 71%)
+[firsttolddepression07-2,pcp07-1] => [currentasthma07-2] (Conf: 95%, Supp: 73%)
+[fmd-1] => [currentasthma07-2] (Conf: 95%, Supp: 78%)
+[anymedvisit12m-1,firsttolddepression07-2,twoplussoda-2] => [currentasthma07-2] (Conf: 95%, Supp: 72%)
+[didntgetcare07-2,recommendedhivtest07-2] => [currentasthma07-2] (Conf: 95%, Supp: 72%)
+[didntgetdental-2,heavydrink07-2] => [currentasthma07-2] (Conf: 95%, Supp: 73%)
+[fmd-1] => [firsttolddepression07-2] (Conf: 95%, Supp: 77%)
+[didntgetcare07-2,twoplussoda-2] => [currentasthma07-2] (Conf: 95%, Supp: 78%)
+[cholesterol5yrs07-1,firsttolddepression07-2] => [currentasthma07-2] (Conf: 95%, Supp: 74%)
+[didntgetdental-2] => [currentasthma07-2] (Conf: 95%, Supp: 78%)
+[anymedvisit12m-1,didntgetmeds-2] => [currentasthma07-2] (Conf: 95%, Supp: 70%)
+[diabetes07-2,recommendedhivtest07-2] => [currentasthma07-2] (Conf: 95%, Supp: 71%)
+[sexualid-1,twoplussoda-2] => [currentasthma07-2] (Conf: 95%, Supp: 73%)
+[diabetes07-2] => [currentasthma07-2] (Conf: 95%, Supp: 84%)
+[diabetes07-2,heavydrink07-2] => [currentasthma07-2] (Conf: 95%, Supp: 73%)
+[acinhome-1,didntgetcare07-2] => [currentasthma07-2] (Conf: 95%, Supp: 71%)
+[didntgetcare07-2,heavydrink07-2] => [currentasthma07-2] (Conf: 95%, Supp: 74%)
+[anymedvisit12m-1,firsttolddepression07-2] => [currentasthma07-2] (Conf: 95%, Supp: 77%)
+[didntgetcare07-2] => [currentasthma07-2] (Conf: 94%, Supp: 84%)
+[acinhome-1,diabetes07-2] => [currentasthma07-2] (Conf: 94%, Supp: 70%)
+[heavydrink07-2,sexualid-1] => [currentasthma07-2] (Conf: 94%, Supp: 70%)
+[sexualid-1] => [currentasthma07-2] (Conf: 94%, Supp: 79%)
+[binge07-2,twoplussoda-2] => [currentasthma07-2] (Conf: 94%, Supp: 71%)
+[recommendedhivtest07-2,twoplussoda-2] => [currentasthma07-2] (Conf: 94%, Supp: 75%)
+[dphonew06-4] => [currentasthma07-2] (Conf: 94%, Supp: 73%)
+[binge07-2,heavydrink07-2,twoplussoda-2] => [currentasthma07-2] (Conf: 94%, Supp: 70%)
+[cholesterol5yrs07-1,diabetes07-2] => [currentasthma07-2] (Conf: 94%, Supp: 70%)
+[didntgetcare07-2,pcp07-1] => [currentasthma07-2] (Conf: 94%, Supp: 71%)
+[cholesterol5yrs07-1,didntgetcare07-2] => [currentasthma07-2] (Conf: 94%, Supp: 72%)
+[heavydrink07-2,twoplussoda-2] => [currentasthma07-2] (Conf: 94%, Supp: 77%)
+[anymedvisit12m-1,didntgetcare07-2,twoplussoda-2] => [currentasthma07-2] (Conf: 94%, Supp: 70%)
+[acinhome-1,twoplussoda-2] => [currentasthma07-2] (Conf: 94%, Supp: 73%)
+[anymedvisit12m-1,didntgetdental-2] => [currentasthma07-2] (Conf: 94%, Supp: 70%)
+[twoplussoda-2] => [currentasthma07-2] (Conf: 94%, Supp: 87%)
+[didntgetcare07-2,pcp07-1] => [anymedvisit12m-1] (Conf: 94%, Supp: 71%)
+[anymedvisit12m-1,diabetes07-2] => [currentasthma07-2] (Conf: 94%, Supp: 73%)
+[binge07-2] => [currentasthma07-2] (Conf: 94%, Supp: 77%)
+[recommendedhivtest07-2] => [currentasthma07-2] (Conf: 94%, Supp: 80%)
+[anymedvisit12m-1,didntgetcare07-2] => [currentasthma07-2] (Conf: 94%, Supp: 75%)
+[heavydrink07-2,recommendedhivtest07-2] => [currentasthma07-2] (Conf: 94%, Supp: 73%)
+[binge07-2,heavydrink07-2] => [currentasthma07-2] (Conf: 94%, Supp: 75%)
+[acinhome-1,heavydrink07-2] => [currentasthma07-2] (Conf: 94%, Supp: 71%)
+[pcp07-1,twoplussoda-2] => [anymedvisit12m-1] (Conf: 94%, Supp: 73%)
+[acinhome-1] => [currentasthma07-2] (Conf: 94%, Supp: 79%)
+[cycling07-4,twoplussoda-2] => [currentasthma07-2] (Conf: 94%, Supp: 71%)
+[anymedvisit12m-1,sexualid-1] => [currentasthma07-2] (Conf: 94%, Supp: 71%)
+[heavydrink07-2] => [currentasthma07-2] (Conf: 94%, Supp: 83%)
+[pcp07-1,twoplussoda-2] => [currentasthma07-2] (Conf: 94%, Supp: 73%)
+[cholesterol5yrs07-1,twoplussoda-2] => [currentasthma07-2] (Conf: 94%, Supp: 74%)
+[cycling07-4] => [currentasthma07-2] (Conf: 94%, Supp: 77%)
+[anymedvisit12m-1,twoplussoda-2] => [currentasthma07-2] (Conf: 94%, Supp: 78%)
+[pcp07-1] => [currentasthma07-2] (Conf: 94%, Supp: 78%)
+[pcp07-1] => [anymedvisit12m-1] (Conf: 94%, Supp: 78%)
+[cholesterol5yrs07-1,heavydrink07-2] => [currentasthma07-2] (Conf: 94%, Supp: 71%)
+[cholesterol5yrs07-1] => [currentasthma07-2] (Conf: 94%, Supp: 80%)
+[anymedvisit12m-1,recommendedhivtest07-2] => [currentasthma07-2] (Conf: 94%, Supp: 71%)
+[acinhome-1,anymedvisit12m-1] => [currentasthma07-2] (Conf: 94%, Supp: 70%)
+[anymedvisit12m-1,heavydrink07-2] => [currentasthma07-2] (Conf: 94%, Supp: 74%)
+[anymedvisit12m-1] => [currentasthma07-2] (Conf: 94%, Supp: 83%)
+[anymedvisit12m-1,pcp07-1] => [currentasthma07-2] (Conf: 94%, Supp: 74%)
+[currentasthma07-2,pcp07-1] => [anymedvisit12m-1] (Conf: 94%, Supp: 74%)
+[anymedvisit12m-1,pcp07-1,visitpcp12m-1] => [currentasthma07-2] (Conf: 94%, Supp: 71%)
+[anymedvisit12m-1,visitpcp12m-1] => [currentasthma07-2] (Conf: 94%, Supp: 71%)
+[pcp07-1,visitpcp12m-1] => [currentasthma07-2] (Conf: 94%, Supp: 71%)
+[visitpcp12m-1] => [currentasthma07-2] (Conf: 94%, Supp: 71%)
+[currentasthma07-2,diabetes07-2,didntgetcare07-2] => [firsttolddepression07-2] (Conf: 94%, Supp: 70%)
+[anymedvisit12m-1,cholesterol5yrs07-1] => [currentasthma07-2] (Conf: 94%, Supp: 74%)
+[firsttolddepression07-2,pcp07-1] => [anymedvisit12m-1] (Conf: 94%, Supp: 72%)
+[currentasthma07-2,didntgetcare07-2,everasthma-2] => [firsttolddepression07-2] (Conf: 93%, Supp: 72%)
+[didntgetcare07-2,everasthma-2] => [firsttolddepression07-2] (Conf: 93%, Supp: 72%)
+[currentasthma07-2,didntgetcare07-2,twoplussoda-2] => [firsttolddepression07-2] (Conf: 93%, Supp: 73%)
+[didntgetdental-2,didntgetmeds-2] => [heavydrink07-2] (Conf: 93%, Supp: 71%)
+[didntgetcare07-2,didntgetmeds-2] => [heavydrink07-2] (Conf: 93%, Supp: 71%)
+[didntgetcare07-2,didntgetdental-2] => [heavydrink07-2] (Conf: 93%, Supp: 71%)
+[didntgetdental-2,twoplussoda-2] => [heavydrink07-2] (Conf: 93%, Supp: 71%)
+[didntgetdental-2,firsttolddepression07-2] => [heavydrink07-2] (Conf: 93%, Supp: 71%)
+[currentasthma07-2,didntgetdental-2] => [heavydrink07-2] (Conf: 93%, Supp: 73%)
+[didntgetmeds-2,twoplussoda-2] => [heavydrink07-2] (Conf: 93%, Supp: 72%)
+[currentasthma07-2,didntgetmeds-2] => [firsttolddepression07-2] (Conf: 93%, Supp: 74%)
+[didntgetdental-2] => [heavydrink07-2] (Conf: 93%, Supp: 77%)
+[currentasthma07-2,didntgetmeds-2] => [heavydrink07-2] (Conf: 93%, Supp: 74%)
+[currentasthma07-2,diabetes07-2,everasthma-2] => [firsttolddepression07-2] (Conf: 93%, Supp: 72%)
+[diabetes07-2,everasthma-2] => [firsttolddepression07-2] (Conf: 93%, Supp: 72%)
+[didntgetmeds-2,firsttolddepression07-2] => [heavydrink07-2] (Conf: 93%, Supp: 72%)
+[didntgetmeds-2] => [heavydrink07-2] (Conf: 93%, Supp: 77%)
+[currentasthma07-2,diabetes07-2,twoplussoda-2] => [firsttolddepression07-2] (Conf: 93%, Supp: 72%)
+[currentasthma07-2,didntgetcare07-2] => [firsttolddepression07-2] (Conf: 93%, Supp: 79%)
+[currentasthma07-2,recommendedhivtest07-2,twoplussoda-2] => [firsttolddepression07-2] (Conf: 93%, Supp: 70%)
+[dphonew06-4] => [twoplussoda-2] (Conf: 93%, Supp: 72%)
+[didntgetdental-2,didntgetmeds-2] => [didntgetcare07-2] (Conf: 93%, Supp: 71%)
+[didntgetcare07-2,sexualid-1] => [firsttolddepression07-2] (Conf: 93%, Supp: 70%)
+[didntgetcare07-2,didntgetmeds-2] => [firsttolddepression07-2] (Conf: 93%, Supp: 71%)
+[currentasthma07-2,didntgetcare07-2,heavydrink07-2] => [firsttolddepression07-2] (Conf: 93%, Supp: 70%)
+[diabetes07-2,didntgetcare07-2] => [firsttolddepression07-2] (Conf: 93%, Supp: 73%)
+[currentasthma07-2,sexualid-1] => [firsttolddepression07-2] (Conf: 93%, Supp: 74%)
+[cholesterol5yrs07-1,firsttolddepression07-2] => [twoplussoda-2] (Conf: 93%, Supp: 73%)
+[didntgetcare07-2,recommendedhivtest07-2] => [firsttolddepression07-2] (Conf: 93%, Supp: 71%)
+[didntgetcare07-2,didntgetdental-2] => [didntgetmeds-2] (Conf: 93%, Supp: 71%)
+[currentasthma07-2,recommendedhivtest07-2] => [firsttolddepression07-2] (Conf: 93%, Supp: 75%)
+[anymedvisit12m-1,cholesterol5yrs07-1] => [twoplussoda-2] (Conf: 93%, Supp: 73%)
+[currentasthma07-2,diabetes07-2] => [firsttolddepression07-2] (Conf: 93%, Supp: 78%)
+[firsttolddepression07-2,pcp07-1] => [twoplussoda-2] (Conf: 93%, Supp: 71%)
+[cholesterol5yrs07-1,currentasthma07-2] => [twoplussoda-2] (Conf: 93%, Supp: 74%)
+[currentasthma07-2,everasthma-2,twoplussoda-2] => [firsttolddepression07-2] (Conf: 93%, Supp: 75%)
+[everasthma-2,twoplussoda-2] => [firsttolddepression07-2] (Conf: 93%, Supp: 75%)
+[diabetes07-2,recommendedhivtest07-2] => [firsttolddepression07-2] (Conf: 93%, Supp: 70%)
+[anymedvisit12m-1,pcp07-1,visitpcp12m-1] => [twoplussoda-2] (Conf: 93%, Supp: 70%)
+[anymedvisit12m-1,visitpcp12m-1] => [twoplussoda-2] (Conf: 93%, Supp: 70%)
+[pcp07-1,visitpcp12m-1] => [twoplussoda-2] (Conf: 93%, Supp: 70%)
+[visitpcp12m-1] => [twoplussoda-2] (Conf: 93%, Supp: 70%)
+[currentasthma07-2,didntgetdental-2] => [firsttolddepression07-2] (Conf: 93%, Supp: 73%)
+[anymedvisit12m-1,pcp07-1] => [twoplussoda-2] (Conf: 93%, Supp: 73%)
+[anymedvisit12m-1,currentasthma07-2,firsttolddepression07-2] => [twoplussoda-2] (Conf: 93%, Supp: 72%)
+[cholesterol5yrs07-1,didntgetcare07-2] => [twoplussoda-2] (Conf: 93%, Supp: 71%)
+[currentasthma07-2,everasthma-2,heavydrink07-2] => [firsttolddepression07-2] (Conf: 93%, Supp: 70%)
+[everasthma-2,heavydrink07-2] => [firsttolddepression07-2] (Conf: 93%, Supp: 70%)
+[cholesterol5yrs07-1,didntgetcare07-2] => [anymedvisit12m-1] (Conf: 93%, Supp: 71%)
+[cholesterol5yrs07-1,heavydrink07-2] => [twoplussoda-2] (Conf: 93%, Supp: 70%)
+[currentasthma07-2,everasthma-2] => [firsttolddepression07-2] (Conf: 93%, Supp: 80%)
+[everasthma-2] => [firsttolddepression07-2] (Conf: 93%, Supp: 80%)
+[didntgetmeds-2,twoplussoda-2] => [firsttolddepression07-2] (Conf: 93%, Supp: 71%)
+[didntgetdental-2,didntgetmeds-2] => [firsttolddepression07-2] (Conf: 93%, Supp: 70%)
+[didntgetcare07-2,pcp07-1] => [twoplussoda-2] (Conf: 93%, Supp: 70%)
+[didntgetcare07-2,didntgetdental-2] => [firsttolddepression07-2] (Conf: 93%, Supp: 70%)
+[currentasthma07-2,pcp07-1] => [twoplussoda-2] (Conf: 93%, Supp: 73%)
+[cholesterol5yrs07-1] => [twoplussoda-2] (Conf: 93%, Supp: 79%)
+[anymedvisit12m-1,recommendedhivtest07-2] => [twoplussoda-2] (Conf: 93%, Supp: 70%)
+[didntgetcare07-2,twoplussoda-2] => [firsttolddepression07-2] (Conf: 93%, Supp: 77%)
+[sexualid-1,twoplussoda-2] => [firsttolddepression07-2] (Conf: 93%, Supp: 72%)
+[anymedvisit12m-1,currentasthma07-2,everasthma-2] => [twoplussoda-2] (Conf: 93%, Supp: 71%)
+[anymedvisit12m-1,everasthma-2] => [twoplussoda-2] (Conf: 93%, Supp: 71%)
+[anymedvisit12m-1,firsttolddepression07-2] => [twoplussoda-2] (Conf: 93%, Supp: 76%)
+[currentasthma07-2,twoplussoda-2] => [firsttolddepression07-2] (Conf: 93%, Supp: 81%)
+[currentasthma07-2,firsttolddepression07-2,recommendedhivtest07-2] => [twoplussoda-2] (Conf: 93%, Supp: 70%)
+[diabetes07-2,twoplussoda-2] => [firsttolddepression07-2] (Conf: 93%, Supp: 75%)
+[didntgetcare07-2,didntgetmeds-2] => [didntgetdental-2] (Conf: 93%, Supp: 71%)
+[pcp07-1] => [twoplussoda-2] (Conf: 93%, Supp: 77%)
+[firsttolddepression07-2,fmd-1] => [twoplussoda-2] (Conf: 93%, Supp: 72%)
+[acinhome-1,currentasthma07-2] => [firsttolddepression07-2] (Conf: 93%, Supp: 73%)
+[currentasthma07-2,heavydrink07-2,twoplussoda-2] => [firsttolddepression07-2] (Conf: 93%, Supp: 72%)
+[anymedvisit12m-1,currentasthma07-2,didntgetcare07-2] => [firsttolddepression07-2] (Conf: 93%, Supp: 70%)
+[didntgetmeds-2,heavydrink07-2] => [firsttolddepression07-2] (Conf: 93%, Supp: 72%)
+[didntgetmeds-2] => [firsttolddepression07-2] (Conf: 93%, Supp: 77%)
+[binge07-2,currentasthma07-2] => [twoplussoda-2] (Conf: 93%, Supp: 71%)
+[currentasthma07-2,didntgetdental-2] => [twoplussoda-2] (Conf: 93%, Supp: 72%)
+[didntgetdental-2,firsttolddepression07-2] => [twoplussoda-2] (Conf: 93%, Supp: 71%)
+[cholesterol5yrs07-1,twoplussoda-2] => [anymedvisit12m-1] (Conf: 93%, Supp: 73%)
+[anymedvisit12m-1,currentasthma07-2] => [twoplussoda-2] (Conf: 93%, Supp: 78%)
+[currentasthma07-2,fmd-1] => [twoplussoda-2] (Conf: 93%, Supp: 72%)
+[anymedvisit12m-1,currentasthma07-2,didntgetcare07-2] => [twoplussoda-2] (Conf: 93%, Supp: 70%)
+[acinhome-1,anymedvisit12m-1] => [twoplussoda-2] (Conf: 93%, Supp: 70%)
+[recommendedhivtest07-2,twoplussoda-2] => [firsttolddepression07-2] (Conf: 93%, Supp: 73%)
+[binge07-2,currentasthma07-2,heavydrink07-2] => [twoplussoda-2] (Conf: 93%, Supp: 70%)
+[firsttolddepression07-2,recommendedhivtest07-2] => [twoplussoda-2] (Conf: 93%, Supp: 73%)
+[currentasthma07-2,recommendedhivtest07-2] => [twoplussoda-2] (Conf: 93%, Supp: 75%)
+[currentasthma07-2,everasthma-2,heavydrink07-2] => [twoplussoda-2] (Conf: 93%, Supp: 70%)
+[everasthma-2,heavydrink07-2] => [twoplussoda-2] (Conf: 93%, Supp: 70%)
+[didntgetcare07-2,recommendedhivtest07-2] => [twoplussoda-2] (Conf: 93%, Supp: 70%)
+[currentasthma07-2,firsttolddepression07-2,tolddepression-2] => [twoplussoda-2] (Conf: 93%, Supp: 73%)
+[currentasthma07-2,tolddepression-2] => [twoplussoda-2] (Conf: 93%, Supp: 73%)
+[anymedvisit12m-1,heavydrink07-2] => [twoplussoda-2] (Conf: 93%, Supp: 73%)
+[currentasthma07-2,everasthma-2,firsttolddepression07-2] => [twoplussoda-2] (Conf: 93%, Supp: 75%)
+[everasthma-2,firsttolddepression07-2] => [twoplussoda-2] (Conf: 93%, Supp: 75%)
+[currentasthma07-2,firsttolddepression07-2,heavydrink07-2] => [twoplussoda-2] (Conf: 93%, Supp: 72%)
+[didntgetcare07-2] => [firsttolddepression07-2] (Conf: 92%, Supp: 82%)
+[currentasthma07-2] => [firsttolddepression07-2] (Conf: 92%, Supp: 87%)
+[didntgetdental-2,heavydrink07-2] => [twoplussoda-2] (Conf: 92%, Supp: 71%)
+[heavydrink07-2,recommendedhivtest07-2] => [firsttolddepression07-2] (Conf: 92%, Supp: 72%)
+[currentasthma07-2,didntgetcare07-2,firsttolddepression07-2] => [twoplussoda-2] (Conf: 92%, Supp: 73%)
+[didntgetcare07-2,heavydrink07-2] => [firsttolddepression07-2] (Conf: 92%, Supp: 73%)
+[diabetes07-2,heavydrink07-2] => [firsttolddepression07-2] (Conf: 92%, Supp: 72%)
+[sexualid-1] => [firsttolddepression07-2] (Conf: 92%, Supp: 78%)
+[acinhome-1,firsttolddepression07-2] => [twoplussoda-2] (Conf: 92%, Supp: 71%)
+[fmd-1] => [twoplussoda-2] (Conf: 92%, Supp: 76%)
+[currentasthma07-2,cycling07-4] => [twoplussoda-2] (Conf: 92%, Supp: 71%)
+[diabetes07-2] => [firsttolddepression07-2] (Conf: 92%, Supp: 82%)
+[anymedvisit12m-1,didntgetcare07-2] => [twoplussoda-2] (Conf: 92%, Supp: 74%)
+[currentasthma07-2,heavydrink07-2] => [firsttolddepression07-2] (Conf: 92%, Supp: 77%)
+[didntgetcare07-2,didntgetdental-2] => [twoplussoda-2] (Conf: 92%, Supp: 70%)
+[didntgetmeds-2,firsttolddepression07-2] => [twoplussoda-2] (Conf: 92%, Supp: 71%)
+[didntgetdental-2,didntgetmeds-2] => [twoplussoda-2] (Conf: 92%, Supp: 70%)
+[didntgetdental-2] => [twoplussoda-2] (Conf: 92%, Supp: 76%)
+[currentasthma07-2,didntgetmeds-2] => [twoplussoda-2] (Conf: 92%, Supp: 73%)
+[binge07-2] => [twoplussoda-2] (Conf: 92%, Supp: 75%)
+[heavydrink07-2,recommendedhivtest07-2] => [twoplussoda-2] (Conf: 92%, Supp: 72%)
+[cholesterol5yrs07-1,heavydrink07-2] => [anymedvisit12m-1] (Conf: 92%, Supp: 70%)
+[currentasthma07-2,firsttolddepression07-2] => [twoplussoda-2] (Conf: 92%, Supp: 81%)
+[didntgetcare07-2,firsttolddepression07-2] => [twoplussoda-2] (Conf: 92%, Supp: 77%)
+[recommendedhivtest07-2] => [firsttolddepression07-2] (Conf: 92%, Supp: 79%)
+[anymedvisit12m-1] => [twoplussoda-2] (Conf: 92%, Supp: 82%)
+[dphonew06-4] => [firsttolddepression07-2] (Conf: 92%, Supp: 72%)
+[didntgetcare07-2,didntgetmeds-2] => [twoplussoda-2] (Conf: 92%, Supp: 70%)
+[firsttolddepression07-2,tolddepression-2] => [twoplussoda-2] (Conf: 92%, Supp: 76%)
+[tolddepression-2] => [twoplussoda-2] (Conf: 92%, Supp: 76%)
+[cholesterol5yrs07-1] => [anymedvisit12m-1] (Conf: 92%, Supp: 78%)
+[recommendedhivtest07-2] => [twoplussoda-2] (Conf: 92%, Supp: 79%)
+[binge07-2,heavydrink07-2] => [twoplussoda-2] (Conf: 92%, Supp: 74%)
+[currentasthma07-2,pcp07-1] => [firsttolddepression07-2] (Conf: 92%, Supp: 73%)
+[firsttolddepression07-2,heavydrink07-2] => [twoplussoda-2] (Conf: 92%, Supp: 75%)
+[didntgetdental-2,firsttolddepression07-2] => [didntgetcare07-2] (Conf: 92%, Supp: 70%)
+[currentasthma07-2,everasthma-2] => [twoplussoda-2] (Conf: 92%, Supp: 80%)
+[everasthma-2] => [twoplussoda-2] (Conf: 92%, Supp: 80%)
+[currentasthma07-2,didntgetcare07-2,everasthma-2] => [twoplussoda-2] (Conf: 92%, Supp: 72%)
+[didntgetcare07-2,everasthma-2] => [twoplussoda-2] (Conf: 92%, Supp: 72%)
+[didntgetdental-2,twoplussoda-2] => [firsttolddepression07-2] (Conf: 92%, Supp: 71%)
+[acinhome-1,currentasthma07-2] => [twoplussoda-2] (Conf: 92%, Supp: 73%)
+[currentasthma07-2,heavydrink07-2] => [twoplussoda-2] (Conf: 92%, Supp: 77%)
+[firsttolddepression07-2,sexualid-1] => [twoplussoda-2] (Conf: 92%, Supp: 72%)
+[cycling07-4] => [twoplussoda-2] (Conf: 92%, Supp: 76%)
+[firsttolddepression07-2] => [twoplussoda-2] (Conf: 92%, Supp: 85%)
+[didntgetmeds-2,heavydrink07-2] => [twoplussoda-2] (Conf: 92%, Supp: 72%)
+[didntgetmeds-2] => [twoplussoda-2] (Conf: 92%, Supp: 76%)
+[didntgetcare07-2,pcp07-1] => [firsttolddepression07-2] (Conf: 92%, Supp: 70%)
+[acinhome-1,twoplussoda-2] => [firsttolddepression07-2] (Conf: 92%, Supp: 71%)
+[didntgetdental-2,firsttolddepression07-2] => [didntgetmeds-2] (Conf: 92%, Supp: 70%)
+[didntgetcare07-2,heavydrink07-2] => [twoplussoda-2] (Conf: 92%, Supp: 73%)
+[currentasthma07-2,didntgetcare07-2] => [twoplussoda-2] (Conf: 92%, Supp: 78%)
+[currentasthma07-2,sexualid-1] => [twoplussoda-2] (Conf: 92%, Supp: 73%)
+[anymedvisit12m-1,currentasthma07-2,everasthma-2] => [firsttolddepression07-2] (Conf: 92%, Supp: 70%)
+[anymedvisit12m-1,everasthma-2] => [firsttolddepression07-2] (Conf: 92%, Supp: 70%)
+[didntgetdental-2,heavydrink07-2] => [firsttolddepression07-2] (Conf: 92%, Supp: 71%)
+[cholesterol5yrs07-1,currentasthma07-2] => [firsttolddepression07-2] (Conf: 92%, Supp: 74%)
+[currentasthma07-2] => [twoplussoda-2] (Conf: 92%, Supp: 87%)
+[acinhome-1,heavydrink07-2] => [twoplussoda-2] (Conf: 92%, Supp: 70%)
+[binge07-2,currentasthma07-2] => [firsttolddepression07-2] (Conf: 92%, Supp: 71%)
+[cholesterol5yrs07-1,didntgetcare07-2] => [firsttolddepression07-2] (Conf: 92%, Supp: 70%)
+[anymedvisit12m-1,currentasthma07-2,twoplussoda-2] => [firsttolddepression07-2] (Conf: 92%, Supp: 72%)
+[didntgetdental-2] => [firsttolddepression07-2] (Conf: 92%, Supp: 76%)
+[acinhome-1] => [twoplussoda-2] (Conf: 92%, Supp: 77%)
+[didntgetcare07-2] => [twoplussoda-2] (Conf: 92%, Supp: 82%)
+[cholesterol5yrs07-1,currentasthma07-2] => [anymedvisit12m-1] (Conf: 92%, Supp: 74%)
+[currentasthma07-2,diabetes07-2,everasthma-2] => [twoplussoda-2] (Conf: 92%, Supp: 71%)
+[diabetes07-2,everasthma-2] => [twoplussoda-2] (Conf: 92%, Supp: 71%)
+[heavydrink07-2] => [twoplussoda-2] (Conf: 92%, Supp: 81%)
+[anymedvisit12m-1,diabetes07-2] => [twoplussoda-2] (Conf: 92%, Supp: 72%)
+[currentasthma07-2,didntgetdental-2] => [didntgetmeds-2] (Conf: 92%, Supp: 72%)
+[didntgetmeds-2,firsttolddepression07-2] => [didntgetcare07-2] (Conf: 92%, Supp: 71%)
+[currentasthma07-2,diabetes07-2,firsttolddepression07-2] => [twoplussoda-2] (Conf: 92%, Supp: 72%)
+[sexualid-1] => [twoplussoda-2] (Conf: 92%, Supp: 77%)
+[twoplussoda-2] => [firsttolddepression07-2] (Conf: 92%, Supp: 85%)
+[currentasthma07-2,didntgetdental-2] => [didntgetcare07-2] (Conf: 92%, Supp: 72%)
+[heavydrink07-2,twoplussoda-2] => [firsttolddepression07-2] (Conf: 92%, Supp: 75%)
+[acinhome-1,heavydrink07-2] => [firsttolddepression07-2] (Conf: 92%, Supp: 70%)
+[cholesterol5yrs07-1,firsttolddepression07-2] => [anymedvisit12m-1] (Conf: 92%, Supp: 72%)
+[currentasthma07-2,cycling07-4] => [firsttolddepression07-2] (Conf: 92%, Supp: 71%)
+[acinhome-1] => [firsttolddepression07-2] (Conf: 92%, Supp: 77%)
+[diabetes07-2,firsttolddepression07-2] => [twoplussoda-2] (Conf: 92%, Supp: 75%)
+[anymedvisit12m-1,didntgetcare07-2] => [firsttolddepression07-2] (Conf: 92%, Supp: 73%)
+[pcp07-1,twoplussoda-2] => [firsttolddepression07-2] (Conf: 92%, Supp: 71%)
+[currentasthma07-2,diabetes07-2] => [twoplussoda-2] (Conf: 92%, Supp: 77%)
+[anymedvisit12m-1,currentasthma07-2] => [firsttolddepression07-2] (Conf: 92%, Supp: 77%)
+[diabetes07-2,didntgetcare07-2] => [twoplussoda-2] (Conf: 92%, Supp: 72%)
+[anymedvisit12m-1,diabetes07-2] => [firsttolddepression07-2] (Conf: 92%, Supp: 71%)
+[currentasthma07-2,firsttolddepression07-2,tolddepression-2] => [everasthma-2] (Conf: 92%, Supp: 73%)
+[currentasthma07-2,tolddepression-2] => [everasthma-2] (Conf: 92%, Supp: 73%)
+[didntgetdental-2,heavydrink07-2] => [didntgetcare07-2] (Conf: 92%, Supp: 71%)
+[diabetes07-2,heavydrink07-2] => [twoplussoda-2] (Conf: 92%, Supp: 71%)
+[didntgetdental-2,heavydrink07-2] => [didntgetmeds-2] (Conf: 92%, Supp: 71%)
+[cholesterol5yrs07-1,twoplussoda-2] => [firsttolddepression07-2] (Conf: 92%, Supp: 73%)
+[heavydrink07-2] => [firsttolddepression07-2] (Conf: 92%, Supp: 81%)
+[didntgetdental-2,twoplussoda-2] => [didntgetcare07-2] (Conf: 92%, Supp: 70%)
+[currentasthma07-2,didntgetmeds-2] => [didntgetcare07-2] (Conf: 92%, Supp: 72%)
+[diabetes07-2] => [twoplussoda-2] (Conf: 92%, Supp: 81%)
+[didntgetdental-2] => [didntgetcare07-2] (Conf: 92%, Supp: 76%)
+[didntgetmeds-2,twoplussoda-2] => [didntgetcare07-2] (Conf: 92%, Supp: 70%)
+[didntgetmeds-2,heavydrink07-2] => [didntgetcare07-2] (Conf: 92%, Supp: 71%)
+[currentasthma07-2,diabetes07-2,firsttolddepression07-2] => [everasthma-2] (Conf: 92%, Supp: 72%)
+[didntgetdental-2,twoplussoda-2] => [didntgetmeds-2] (Conf: 92%, Supp: 70%)
+[currentasthma07-2,diabetes07-2,twoplussoda-2] => [everasthma-2] (Conf: 92%, Supp: 71%)
+[didntgetdental-2] => [didntgetmeds-2] (Conf: 92%, Supp: 75%)
+[didntgetmeds-2] => [didntgetcare07-2] (Conf: 92%, Supp: 76%)
+[pcp07-1] => [firsttolddepression07-2] (Conf: 92%, Supp: 76%)
+[cholesterol5yrs07-1] => [firsttolddepression07-2] (Conf: 91%, Supp: 78%)
+[anymedvisit12m-1,twoplussoda-2] => [firsttolddepression07-2] (Conf: 91%, Supp: 76%)
+[binge07-2,heavydrink07-2] => [firsttolddepression07-2] (Conf: 91%, Supp: 73%)
+[currentasthma07-2,firsttolddepression07-2,twoplussoda-2] => [everasthma-2] (Conf: 91%, Supp: 75%)
+[currentasthma07-2,didntgetcare07-2,firsttolddepression07-2] => [everasthma-2] (Conf: 91%, Supp: 72%)
+[currentasthma07-2,fmd-1] => [everasthma-2] (Conf: 91%, Supp: 71%)
+[binge07-2] => [firsttolddepression07-2] (Conf: 91%, Supp: 74%)
+[currentasthma07-2,diabetes07-2] => [everasthma-2] (Conf: 91%, Supp: 77%)
+[currentasthma07-2,firsttolddepression07-2] => [everasthma-2] (Conf: 91%, Supp: 80%)
+[currentasthma07-2,didntgetmeds-2] => [didntgetdental-2] (Conf: 91%, Supp: 72%)
+[didntgetmeds-2,firsttolddepression07-2] => [didntgetdental-2] (Conf: 91%, Supp: 70%)
+[didntgetmeds-2,twoplussoda-2] => [didntgetdental-2] (Conf: 91%, Supp: 70%)
+[didntgetmeds-2,heavydrink07-2] => [didntgetdental-2] (Conf: 91%, Supp: 71%)
+[currentasthma07-2,didntgetmeds-2] => [everasthma-2] (Conf: 91%, Supp: 72%)
+[anymedvisit12m-1,pcp07-1] => [firsttolddepression07-2] (Conf: 91%, Supp: 72%)
+[currentasthma07-2,didntgetcare07-2,twoplussoda-2] => [everasthma-2] (Conf: 91%, Supp: 72%)
+[currentasthma07-2,cycling07-4] => [everasthma-2] (Conf: 91%, Supp: 70%)
+[currentasthma07-2,twoplussoda-2] => [everasthma-2] (Conf: 91%, Supp: 80%)
+[cycling07-4] => [firsttolddepression07-2] (Conf: 91%, Supp: 75%)
+[currentasthma07-2,firsttolddepression07-2,heavydrink07-2] => [everasthma-2] (Conf: 91%, Supp: 70%)
+[currentasthma07-2,didntgetcare07-2] => [everasthma-2] (Conf: 91%, Supp: 77%)
+[didntgetmeds-2] => [didntgetdental-2] (Conf: 91%, Supp: 75%)
+[anymedvisit12m-1] => [firsttolddepression07-2] (Conf: 91%, Supp: 81%)
+[anymedvisit12m-1,heavydrink07-2] => [firsttolddepression07-2] (Conf: 91%, Supp: 72%)
+[acinhome-1,currentasthma07-2] => [everasthma-2] (Conf: 91%, Supp: 72%)
+[currentasthma07-2,didntgetdental-2] => [everasthma-2] (Conf: 91%, Supp: 71%)
+[currentasthma07-2,recommendedhivtest07-2] => [everasthma-2] (Conf: 91%, Supp: 73%)
+[anymedvisit12m-1,cholesterol5yrs07-1] => [firsttolddepression07-2] (Conf: 91%, Supp: 72%)
+[anymedvisit12m-1,currentasthma07-2,firsttolddepression07-2] => [everasthma-2] (Conf: 91%, Supp: 70%)
+[firsttolddepression07-2,recommendedhivtest07-2] => [heavydrink07-2] (Conf: 91%, Supp: 72%)
+[currentasthma07-2] => [everasthma-2] (Conf: 91%, Supp: 86%)
+[currentasthma07-2,heavydrink07-2,twoplussoda-2] => [everasthma-2] (Conf: 91%, Supp: 70%)
+[recommendedhivtest07-2,twoplussoda-2] => [heavydrink07-2] (Conf: 91%, Supp: 72%)
+[currentasthma07-2,sexualid-1] => [everasthma-2] (Conf: 91%, Supp: 72%)
+[recommendedhivtest07-2] => [heavydrink07-2] (Conf: 91%, Supp: 77%)
+[firsttolddepression07-2,pcp07-1] => [didntgetcare07-2] (Conf: 91%, Supp: 70%)
+[currentasthma07-2,recommendedhivtest07-2] => [heavydrink07-2] (Conf: 91%, Supp: 73%)
+[firsttolddepression07-2,fmd-1] => [tolddepression-2] (Conf: 91%, Supp: 71%)
+[anymedvisit12m-1,currentasthma07-2,twoplussoda-2] => [everasthma-2] (Conf: 91%, Supp: 71%)
+[firsttolddepression07-2,fmd-1] => [didntgetcare07-2] (Conf: 91%, Supp: 71%)
+[binge07-2,currentasthma07-2] => [everasthma-2] (Conf: 91%, Supp: 70%)
+[currentasthma07-2,heavydrink07-2] => [everasthma-2] (Conf: 91%, Supp: 76%)
+[anymedvisit12m-1,heavydrink07-2] => [binge07-2] (Conf: 91%, Supp: 71%)
+[anymedvisit12m-1,currentasthma07-2] => [everasthma-2] (Conf: 91%, Supp: 76%)
+[currentasthma07-2,pcp07-1] => [didntgetcare07-2] (Conf: 91%, Supp: 71%)
+[cholesterol5yrs07-1,currentasthma07-2] => [everasthma-2] (Conf: 91%, Supp: 72%)
+[currentasthma07-2,fmd-1] => [didntgetcare07-2] (Conf: 91%, Supp: 71%)
+[anymedvisit12m-1,currentasthma07-2,firsttolddepression07-2] => [didntgetcare07-2] (Conf: 91%, Supp: 70%)
+[anymedvisit12m-1,pcp07-1] => [didntgetcare07-2] (Conf: 91%, Supp: 71%)
+[currentasthma07-2,pcp07-1] => [everasthma-2] (Conf: 90%, Supp: 71%)
+[didntgetcare07-2,heavydrink07-2] => [didntgetmeds-2] (Conf: 90%, Supp: 71%)
+[pcp07-1,twoplussoda-2] => [visitpcp12m-1] (Conf: 90%, Supp: 70%)
+[pcp07-1,twoplussoda-2] => [didntgetcare07-2] (Conf: 90%, Supp: 70%)
+[fmd-1] => [didntgetcare07-2] (Conf: 90%, Supp: 74%)
+[currentasthma07-2,everasthma-2,firsttolddepression07-2] => [tolddepression-2] (Conf: 90%, Supp: 73%)
+[everasthma-2,firsttolddepression07-2] => [tolddepression-2] (Conf: 90%, Supp: 73%)
+[cholesterol5yrs07-1,firsttolddepression07-2] => [didntgetcare07-2] (Conf: 90%, Supp: 70%)
+[currentasthma07-2,didntgetcare07-2,firsttolddepression07-2] => [tolddepression-2] (Conf: 90%, Supp: 72%)
+[currentasthma07-2,firsttolddepression07-2,tolddepression-2] => [didntgetcare07-2] (Conf: 90%, Supp: 72%)
+[currentasthma07-2,tolddepression-2] => [didntgetcare07-2] (Conf: 90%, Supp: 72%)
+[currentasthma07-2,heavydrink07-2,twoplussoda-2] => [binge07-2] (Conf: 90%, Supp: 70%)
+[anymedvisit12m-1,firsttolddepression07-2] => [didntgetcare07-2] (Conf: 90%, Supp: 73%)
+[didntgetcare07-2,heavydrink07-2] => [binge07-2] (Conf: 90%, Supp: 71%)
+[heavydrink07-2,twoplussoda-2] => [binge07-2] (Conf: 90%, Supp: 74%)
+[pcp07-1] => [didntgetcare07-2] (Conf: 90%, Supp: 75%)
+[cholesterol5yrs07-1,currentasthma07-2] => [didntgetcare07-2] (Conf: 90%, Supp: 72%)
+[pcp07-1] => [visitpcp12m-1] (Conf: 90%, Supp: 75%)
+[firsttolddepression07-2,tolddepression-2] => [didntgetcare07-2] (Conf: 90%, Supp: 75%)
+[tolddepression-2] => [didntgetcare07-2] (Conf: 90%, Supp: 75%)
+[anymedvisit12m-1,cholesterol5yrs07-1] => [didntgetcare07-2] (Conf: 90%, Supp: 71%)
+[currentasthma07-2,firsttolddepression07-2,heavydrink07-2] => [didntgetcare07-2] (Conf: 90%, Supp: 70%)
+[currentasthma07-2,diabetes07-2,firsttolddepression07-2] => [tolddepression-2] (Conf: 90%, Supp: 71%)
+[currentasthma07-2,heavydrink07-2] => [binge07-2] (Conf: 90%, Supp: 75%)
+[didntgetcare07-2,heavydrink07-2] => [didntgetdental-2] (Conf: 90%, Supp: 71%)
+[acinhome-1,firsttolddepression07-2] => [heavydrink07-2] (Conf: 90%, Supp: 70%)
+[didntgetcare07-2,firsttolddepression07-2] => [tolddepression-2] (Conf: 90%, Supp: 75%)
+[acinhome-1,twoplussoda-2] => [heavydrink07-2] (Conf: 90%, Supp: 70%)
+[acinhome-1,currentasthma07-2] => [heavydrink07-2] (Conf: 90%, Supp: 71%)
+[currentasthma07-2,firsttolddepression07-2,twoplussoda-2] => [tolddepression-2] (Conf: 90%, Supp: 73%)
+[acinhome-1] => [heavydrink07-2] (Conf: 90%, Supp: 75%)
+[currentasthma07-2,everasthma-2,firsttolddepression07-2] => [didntgetcare07-2] (Conf: 90%, Supp: 72%)
+[everasthma-2,firsttolddepression07-2] => [didntgetcare07-2] (Conf: 90%, Supp: 72%)
+[didntgetmeds-2,heavydrink07-2] => [binge07-2] (Conf: 90%, Supp: 70%)
+[heavydrink07-2] => [binge07-2] (Conf: 90%, Supp: 79%)
+[currentasthma07-2,firsttolddepression07-2,twoplussoda-2] => [didntgetcare07-2] (Conf: 90%, Supp: 73%)
+[firsttolddepression07-2,sexualid-1] => [didntgetcare07-2] (Conf: 90%, Supp: 70%)
+[heavydrink07-2,recommendedhivtest07-2] => [binge07-2] (Conf: 90%, Supp: 70%)
+[currentasthma07-2,pcp07-1] => [visitpcp12m-1] (Conf: 90%, Supp: 71%)
+[currentasthma07-2,firsttolddepression07-2] => [tolddepression-2] (Conf: 90%, Supp: 79%)
+[anymedvisit12m-1,pcp07-1] => [cholesterol5yrs07-1] (Conf: 90%, Supp: 71%)
+[anymedvisit12m-1,currentasthma07-2] => [didntgetcare07-2] (Conf: 90%, Supp: 75%)
+[anymedvisit12m-1,currentasthma07-2,twoplussoda-2] => [didntgetcare07-2] (Conf: 90%, Supp: 70%)
+[currentasthma07-2,firsttolddepression07-2] => [didntgetcare07-2] (Conf: 90%, Supp: 79%)
+[acinhome-1,twoplussoda-2] => [anymedvisit12m-1] (Conf: 90%, Supp: 70%)
+[currentasthma07-2,diabetes07-2,firsttolddepression07-2] => [didntgetcare07-2] (Conf: 90%, Supp: 70%)
+[binge07-2] => [anymedvisit12m-1] (Conf: 90%, Supp: 73%)
+[firsttolddepression07-2,sexualid-1] => [tolddepression-2] (Conf: 90%, Supp: 70%)
+[binge07-2,heavydrink07-2] => [anymedvisit12m-1] (Conf: 90%, Supp: 71%)
+[firsttolddepression07-2,recommendedhivtest07-2] => [didntgetcare07-2] (Conf: 90%, Supp: 71%)
+[cholesterol5yrs07-1,twoplussoda-2] => [didntgetcare07-2] (Conf: 90%, Supp: 71%)
+[diabetes07-2,firsttolddepression07-2] => [tolddepression-2] (Conf: 90%, Supp: 74%)
+[firsttolddepression07-2,heavydrink07-2] => [didntgetcare07-2] (Conf: 90%, Supp: 73%)
+[firsttolddepression07-2,heavydrink07-2] => [binge07-2] (Conf: 90%, Supp: 73%)
+[cycling07-4] => [anymedvisit12m-1] (Conf: 90%, Supp: 73%)
+[firsttolddepression07-2,twoplussoda-2] => [didntgetcare07-2] (Conf: 90%, Supp: 77%)
+[cholesterol5yrs07-1] => [didntgetcare07-2] (Conf: 90%, Supp: 76%)
+[currentasthma07-2,sexualid-1] => [didntgetcare07-2] (Conf: 90%, Supp: 71%)
+[anymedvisit12m-1,cholesterol5yrs07-1] => [pcp07-1] (Conf: 90%, Supp: 71%)
+[acinhome-1,currentasthma07-2] => [didntgetcare07-2] (Conf: 90%, Supp: 71%)
+[didntgetcare07-2,heavydrink07-2] => [anymedvisit12m-1] (Conf: 90%, Supp: 70%)
+[anymedvisit12m-1,heavydrink07-2] => [didntgetcare07-2] (Conf: 90%, Supp: 70%)
+[anymedvisit12m-1,diabetes07-2] => [didntgetcare07-2] (Conf: 90%, Supp: 70%)
+[didntgetcare07-2,twoplussoda-2] => [anymedvisit12m-1] (Conf: 90%, Supp: 74%)
+[currentasthma07-2,recommendedhivtest07-2] => [didntgetcare07-2] (Conf: 89%, Supp: 72%)
+[firsttolddepression07-2] => [didntgetcare07-2] (Conf: 89%, Supp: 82%)
+[firsttolddepression07-2,twoplussoda-2] => [tolddepression-2] (Conf: 89%, Supp: 76%)
+[anymedvisit12m-1,twoplussoda-2] => [didntgetcare07-2] (Conf: 89%, Supp: 74%)
+[diabetes07-2,firsttolddepression07-2] => [didntgetcare07-2] (Conf: 89%, Supp: 73%)
+[anymedvisit12m-1] => [didntgetcare07-2] (Conf: 89%, Supp: 80%)
+[currentasthma07-2,heavydrink07-2] => [didntgetcare07-2] (Conf: 89%, Supp: 74%)
+[firsttolddepression07-2] => [tolddepression-2] (Conf: 89%, Supp: 82%)
+[acinhome-1] => [anymedvisit12m-1] (Conf: 89%, Supp: 75%)
+[didntgetdental-2] => [anymedvisit12m-1] (Conf: 89%, Supp: 74%)
+[heavydrink07-2,twoplussoda-2] => [anymedvisit12m-1] (Conf: 89%, Supp: 73%)
+[currentasthma07-2,everasthma-2] => [didntgetcare07-2] (Conf: 89%, Supp: 77%)
+[everasthma-2] => [didntgetcare07-2] (Conf: 89%, Supp: 77%)
+[currentasthma07-2,everasthma-2,twoplussoda-2] => [didntgetcare07-2] (Conf: 89%, Supp: 72%)
+[everasthma-2,twoplussoda-2] => [didntgetcare07-2] (Conf: 89%, Supp: 72%)
+[binge07-2] => [didntgetcare07-2] (Conf: 89%, Supp: 73%)
+[sexualid-1] => [didntgetcare07-2] (Conf: 89%, Supp: 75%)
+[firsttolddepression07-2,heavydrink07-2] => [tolddepression-2] (Conf: 89%, Supp: 72%)
+[currentasthma07-2,twoplussoda-2] => [didntgetcare07-2] (Conf: 89%, Supp: 78%)
+[firsttolddepression07-2,recommendedhivtest07-2] => [tolddepression-2] (Conf: 89%, Supp: 70%)
+[recommendedhivtest07-2,twoplussoda-2] => [didntgetcare07-2] (Conf: 89%, Supp: 70%)
+[binge07-2,heavydrink07-2] => [didntgetcare07-2] (Conf: 89%, Supp: 71%)
+[didntgetcare07-2] => [anymedvisit12m-1] (Conf: 89%, Supp: 80%)
+[currentasthma07-2,didntgetcare07-2,twoplussoda-2] => [anymedvisit12m-1] (Conf: 89%, Supp: 70%)
+[currentasthma07-2,everasthma-2,firsttolddepression07-2] => [diabetes07-2] (Conf: 89%, Supp: 72%)
+[everasthma-2,firsttolddepression07-2] => [diabetes07-2] (Conf: 89%, Supp: 72%)
+[acinhome-1] => [didntgetcare07-2] (Conf: 89%, Supp: 75%)
+[currentasthma07-2] => [didntgetcare07-2] (Conf: 89%, Supp: 84%)
+[currentasthma07-2,diabetes07-2] => [didntgetcare07-2] (Conf: 89%, Supp: 75%)
+[sexualid-1] => [anymedvisit12m-1] (Conf: 89%, Supp: 75%)
+[heavydrink07-2,twoplussoda-2] => [didntgetcare07-2] (Conf: 89%, Supp: 73%)
+[currentasthma07-2,didntgetdental-2] => [anymedvisit12m-1] (Conf: 89%, Supp: 70%)
+[recommendedhivtest07-2] => [didntgetcare07-2] (Conf: 89%, Supp: 76%)
+[currentasthma07-2,firsttolddepression07-2,tolddepression-2] => [diabetes07-2] (Conf: 89%, Supp: 71%)
+[currentasthma07-2,tolddepression-2] => [diabetes07-2] (Conf: 89%, Supp: 71%)
+[acinhome-1,currentasthma07-2] => [anymedvisit12m-1] (Conf: 89%, Supp: 70%)
+[cycling07-4] => [didntgetcare07-2] (Conf: 89%, Supp: 73%)
+[anymedvisit12m-1,firsttolddepression07-2] => [tolddepression-2] (Conf: 89%, Supp: 72%)
+[diabetes07-2,twoplussoda-2] => [didntgetcare07-2] (Conf: 89%, Supp: 72%)
+[currentasthma07-2,sexualid-1] => [diabetes07-2] (Conf: 89%, Supp: 71%)
+[heavydrink07-2] => [anymedvisit12m-1] (Conf: 89%, Supp: 78%)
+[anymedvisit12m-1,didntgetcare07-2] => [pcp07-1] (Conf: 89%, Supp: 71%)
+[heavydrink07-2] => [didntgetcare07-2] (Conf: 89%, Supp: 78%)
+[twoplussoda-2] => [anymedvisit12m-1] (Conf: 89%, Supp: 82%)
+[firsttolddepression07-2,tolddepression-2] => [diabetes07-2] (Conf: 89%, Supp: 74%)
+[tolddepression-2] => [diabetes07-2] (Conf: 89%, Supp: 74%)
+[twoplussoda-2] => [didntgetcare07-2] (Conf: 89%, Supp: 82%)
+[currentasthma07-2,firsttolddepression07-2] => [diabetes07-2] (Conf: 89%, Supp: 78%)
+[currentasthma07-2,didntgetcare07-2] => [anymedvisit12m-1] (Conf: 89%, Supp: 75%)
+[fmd-1] => [diabetes07-2] (Conf: 89%, Supp: 73%)
+[diabetes07-2] => [didntgetcare07-2] (Conf: 89%, Supp: 78%)
+[currentasthma07-2,sexualid-1] => [anymedvisit12m-1] (Conf: 89%, Supp: 71%)
+[currentasthma07-2,didntgetcare07-2,firsttolddepression07-2] => [diabetes07-2] (Conf: 89%, Supp: 70%)
+[currentasthma07-2,everasthma-2] => [diabetes07-2] (Conf: 89%, Supp: 77%)
+[everasthma-2] => [diabetes07-2] (Conf: 89%, Supp: 77%)
+[acinhome-1,currentasthma07-2] => [diabetes07-2] (Conf: 89%, Supp: 70%)
+[anymedvisit12m-1,didntgetcare07-2] => [cholesterol5yrs07-1] (Conf: 89%, Supp: 71%)
+[anymedvisit12m-1,twoplussoda-2] => [cholesterol5yrs07-1] (Conf: 89%, Supp: 73%)
+[currentasthma07-2,didntgetmeds-2] => [diabetes07-2] (Conf: 89%, Supp: 70%)
+[didntgetcare07-2,firsttolddepression07-2] => [anymedvisit12m-1] (Conf: 89%, Supp: 73%)
+[currentasthma07-2,heavydrink07-2] => [anymedvisit12m-1] (Conf: 89%, Supp: 74%)
+[firsttolddepression07-2] => [diabetes07-2] (Conf: 89%, Supp: 82%)
+[firsttolddepression07-2,recommendedhivtest07-2] => [diabetes07-2] (Conf: 89%, Supp: 70%)
+[recommendedhivtest07-2,twoplussoda-2] => [anymedvisit12m-1] (Conf: 89%, Supp: 70%)
+[currentasthma07-2,twoplussoda-2] => [anymedvisit12m-1] (Conf: 89%, Supp: 78%)
+[firsttolddepression07-2,heavydrink07-2] => [recommendedhivtest07-2] (Conf: 89%, Supp: 72%)
+[currentasthma07-2,everasthma-2,twoplussoda-2] => [diabetes07-2] (Conf: 89%, Supp: 71%)
+[everasthma-2,twoplussoda-2] => [diabetes07-2] (Conf: 89%, Supp: 71%)
+[currentasthma07-2,firsttolddepression07-2,twoplussoda-2] => [diabetes07-2] (Conf: 89%, Supp: 72%)
+[firsttolddepression07-2,heavydrink07-2] => [didntgetmeds-2] (Conf: 89%, Supp: 72%)
+[didntgetcare07-2,firsttolddepression07-2] => [diabetes07-2] (Conf: 89%, Supp: 73%)
+[sexualid-1] => [diabetes07-2] (Conf: 89%, Supp: 74%)
+[currentasthma07-2,heavydrink07-2] => [didntgetmeds-2] (Conf: 88%, Supp: 74%)
+[fmd-1] => [anymedvisit12m-1] (Conf: 88%, Supp: 72%)
+[currentasthma07-2,sexualid-1] => [heavydrink07-2] (Conf: 88%, Supp: 70%)
+[sexualid-1] => [heavydrink07-2] (Conf: 88%, Supp: 74%)
+[currentasthma07-2,recommendedhivtest07-2] => [diabetes07-2] (Conf: 88%, Supp: 71%)
+[anymedvisit12m-1,heavydrink07-2] => [cholesterol5yrs07-1] (Conf: 88%, Supp: 70%)
+[currentasthma07-2] => [diabetes07-2] (Conf: 88%, Supp: 84%)
+[currentasthma07-2,didntgetcare07-2] => [diabetes07-2] (Conf: 88%, Supp: 75%)
+[cholesterol5yrs07-1,twoplussoda-2] => [heavydrink07-2] (Conf: 88%, Supp: 70%)
+[pcp07-1] => [cholesterol5yrs07-1] (Conf: 88%, Supp: 74%)
+[acinhome-1] => [diabetes07-2] (Conf: 88%, Supp: 74%)
+[firsttolddepression07-2,twoplussoda-2] => [anymedvisit12m-1] (Conf: 88%, Supp: 76%)
+[anymedvisit12m-1,cholesterol5yrs07-1] => [heavydrink07-2] (Conf: 88%, Supp: 70%)
+[cholesterol5yrs07-1,currentasthma07-2] => [heavydrink07-2] (Conf: 88%, Supp: 71%)
+[didntgetmeds-2] => [anymedvisit12m-1] (Conf: 88%, Supp: 73%)
+[currentasthma07-2,didntgetcare07-2,firsttolddepression07-2] => [anymedvisit12m-1] (Conf: 88%, Supp: 70%)
+[anymedvisit12m-1,twoplussoda-2] => [pcp07-1] (Conf: 88%, Supp: 73%)
+[firsttolddepression07-2,heavydrink07-2] => [anymedvisit12m-1] (Conf: 88%, Supp: 72%)
+[cholesterol5yrs07-1] => [heavydrink07-2] (Conf: 88%, Supp: 75%)
+[didntgetmeds-2] => [diabetes07-2] (Conf: 88%, Supp: 73%)
+[firsttolddepression07-2,heavydrink07-2] => [diabetes07-2] (Conf: 88%, Supp: 72%)
+[currentasthma07-2,everasthma-2,twoplussoda-2] => [anymedvisit12m-1] (Conf: 88%, Supp: 71%)
+[everasthma-2,twoplussoda-2] => [anymedvisit12m-1] (Conf: 88%, Supp: 71%)
+[firsttolddepression07-2,twoplussoda-2] => [diabetes07-2] (Conf: 88%, Supp: 75%)
+[anymedvisit12m-1,didntgetcare07-2] => [heavydrink07-2] (Conf: 88%, Supp: 70%)
+[recommendedhivtest07-2] => [anymedvisit12m-1] (Conf: 88%, Supp: 75%)
+[currentasthma07-2] => [anymedvisit12m-1] (Conf: 88%, Supp: 83%)
+[diabetes07-2,didntgetcare07-2] => [anymedvisit12m-1] (Conf: 88%, Supp: 70%)
+[anymedvisit12m-1,twoplussoda-2] => [heavydrink07-2] (Conf: 88%, Supp: 73%)
+[currentasthma07-2,didntgetmeds-2] => [recommendedhivtest07-2] (Conf: 88%, Supp: 70%)
+[heavydrink07-2,twoplussoda-2] => [recommendedhivtest07-2] (Conf: 88%, Supp: 72%)
+[fmd-1] => [heavydrink07-2] (Conf: 88%, Supp: 72%)
+[pcp07-1] => [heavydrink07-2] (Conf: 88%, Supp: 73%)
+[currentasthma07-2,twoplussoda-2] => [diabetes07-2] (Conf: 88%, Supp: 77%)
+[anymedvisit12m-1] => [cholesterol5yrs07-1] (Conf: 88%, Supp: 78%)
+[currentasthma07-2,firsttolddepression07-2,twoplussoda-2] => [anymedvisit12m-1] (Conf: 88%, Supp: 72%)
+[didntgetmeds-2] => [recommendedhivtest07-2] (Conf: 88%, Supp: 73%)
+[anymedvisit12m-1,currentasthma07-2] => [heavydrink07-2] (Conf: 88%, Supp: 74%)
+[currentasthma07-2,didntgetmeds-2] => [anymedvisit12m-1] (Conf: 88%, Supp: 70%)
+[anymedvisit12m-1] => [heavydrink07-2] (Conf: 88%, Supp: 78%)
+[recommendedhivtest07-2] => [diabetes07-2] (Conf: 88%, Supp: 75%)
+[currentasthma07-2,heavydrink07-2] => [diabetes07-2] (Conf: 88%, Supp: 73%)
+[anymedvisit12m-1,firsttolddepression07-2] => [heavydrink07-2] (Conf: 88%, Supp: 72%)
+[anymedvisit12m-1,firsttolddepression07-2] => [cholesterol5yrs07-1] (Conf: 88%, Supp: 72%)
+[anymedvisit12m-1,firsttolddepression07-2] => [pcp07-1] (Conf: 88%, Supp: 72%)
+[didntgetcare07-2] => [diabetes07-2] (Conf: 88%, Supp: 78%)
+[anymedvisit12m-1,currentasthma07-2] => [cholesterol5yrs07-1] (Conf: 88%, Supp: 74%)
+[firsttolddepression07-2,tolddepression-2] => [everasthma-2] (Conf: 88%, Supp: 73%)
+[tolddepression-2] => [everasthma-2] (Conf: 88%, Supp: 73%)
+[currentasthma07-2,heavydrink07-2] => [recommendedhivtest07-2] (Conf: 88%, Supp: 73%)
+[didntgetcare07-2,twoplussoda-2] => [heavydrink07-2] (Conf: 88%, Supp: 73%)
+[firsttolddepression07-2] => [anymedvisit12m-1] (Conf: 88%, Supp: 81%)
+[currentasthma07-2,everasthma-2] => [anymedvisit12m-1] (Conf: 88%, Supp: 76%)
+[everasthma-2] => [anymedvisit12m-1] (Conf: 88%, Supp: 76%)
+[diabetes07-2,twoplussoda-2] => [anymedvisit12m-1] (Conf: 88%, Supp: 72%)
+[heavydrink07-2,twoplussoda-2] => [didntgetmeds-2] (Conf: 88%, Supp: 72%)
+[cycling07-4] => [heavydrink07-2] (Conf: 88%, Supp: 72%)
+[binge07-2] => [recommendedhivtest07-2] (Conf: 88%, Supp: 72%)
+[anymedvisit12m-1] => [pcp07-1] (Conf: 88%, Supp: 78%)
+[heavydrink07-2] => [recommendedhivtest07-2] (Conf: 88%, Supp: 77%)
+[didntgetdental-2] => [recommendedhivtest07-2] (Conf: 88%, Supp: 72%)
+[currentasthma07-2,didntgetcare07-2] => [heavydrink07-2] (Conf: 88%, Supp: 74%)
+[anymedvisit12m-1,currentasthma07-2] => [pcp07-1] (Conf: 88%, Supp: 74%)
+[didntgetcare07-2] => [heavydrink07-2] (Conf: 88%, Supp: 78%)
+[didntgetcare07-2,firsttolddepression07-2] => [heavydrink07-2] (Conf: 88%, Supp: 73%)
+[currentasthma07-2,recommendedhivtest07-2] => [anymedvisit12m-1] (Conf: 88%, Supp: 71%)
+[binge07-2] => [didntgetmeds-2] (Conf: 88%, Supp: 72%)
+[currentasthma07-2,didntgetcare07-2,firsttolddepression07-2] => [heavydrink07-2] (Conf: 88%, Supp: 70%)
+[binge07-2,heavydrink07-2] => [recommendedhivtest07-2] (Conf: 88%, Supp: 70%)
+[currentasthma07-2,twoplussoda-2] => [heavydrink07-2] (Conf: 88%, Supp: 77%)
+[didntgetdental-2] => [diabetes07-2] (Conf: 88%, Supp: 72%)
+[currentasthma07-2,heavydrink07-2] => [didntgetdental-2] (Conf: 88%, Supp: 73%)
+[twoplussoda-2] => [heavydrink07-2] (Conf: 88%, Supp: 81%)
+[didntgetcare07-2,twoplussoda-2] => [diabetes07-2] (Conf: 88%, Supp: 72%)
+[currentasthma07-2,firsttolddepression07-2,twoplussoda-2] => [heavydrink07-2] (Conf: 88%, Supp: 72%)
+[firsttolddepression07-2,twoplussoda-2] => [heavydrink07-2] (Conf: 88%, Supp: 75%)
+[binge07-2,heavydrink07-2] => [didntgetmeds-2] (Conf: 88%, Supp: 70%)
+[heavydrink07-2] => [didntgetmeds-2] (Conf: 88%, Supp: 77%)
+[firsttolddepression07-2,heavydrink07-2] => [didntgetdental-2] (Conf: 88%, Supp: 71%)
+[currentasthma07-2] => [heavydrink07-2] (Conf: 88%, Supp: 83%)
+[firsttolddepression07-2] => [heavydrink07-2] (Conf: 88%, Supp: 81%)
+[currentasthma07-2,firsttolddepression07-2] => [anymedvisit12m-1] (Conf: 88%, Supp: 77%)
+[twoplussoda-2] => [diabetes07-2] (Conf: 88%, Supp: 81%)
+[heavydrink07-2,twoplussoda-2] => [didntgetdental-2] (Conf: 88%, Supp: 71%)
+[currentasthma07-2,firsttolddepression07-2] => [heavydrink07-2] (Conf: 88%, Supp: 77%)
+[diabetes07-2,firsttolddepression07-2] => [everasthma-2] (Conf: 88%, Supp: 72%)
+[currentasthma07-2,everasthma-2,twoplussoda-2] => [heavydrink07-2] (Conf: 88%, Supp: 70%)
+[everasthma-2,twoplussoda-2] => [heavydrink07-2] (Conf: 88%, Supp: 70%)
+[heavydrink07-2] => [diabetes07-2] (Conf: 88%, Supp: 77%)
+[anymedvisit12m-1,firsttolddepression07-2] => [diabetes07-2] (Conf: 88%, Supp: 71%)
+[firsttolddepression07-2,tolddepression-2] => [anymedvisit12m-1] (Conf: 88%, Supp: 72%)
+[tolddepression-2] => [anymedvisit12m-1] (Conf: 88%, Supp: 72%)
+[diabetes07-2] => [anymedvisit12m-1] (Conf: 87%, Supp: 77%)
+[firsttolddepression07-2,tolddepression-2] => [heavydrink07-2] (Conf: 87%, Supp: 72%)
+[tolddepression-2] => [heavydrink07-2] (Conf: 87%, Supp: 72%)
+[didntgetcare07-2,firsttolddepression07-2] => [everasthma-2] (Conf: 87%, Supp: 72%)
+[binge07-2] => [didntgetdental-2] (Conf: 87%, Supp: 71%)
+[currentasthma07-2,everasthma-2,firsttolddepression07-2] => [heavydrink07-2] (Conf: 87%, Supp: 70%)
+[everasthma-2,firsttolddepression07-2] => [heavydrink07-2] (Conf: 87%, Supp: 70%)
+[currentasthma07-2,everasthma-2] => [heavydrink07-2] (Conf: 87%, Supp: 76%)
+[everasthma-2] => [heavydrink07-2] (Conf: 87%, Supp: 76%)
+[diabetes07-2,twoplussoda-2] => [heavydrink07-2] (Conf: 87%, Supp: 71%)
+[currentasthma07-2,everasthma-2,firsttolddepression07-2] => [anymedvisit12m-1] (Conf: 87%, Supp: 70%)
+[everasthma-2,firsttolddepression07-2] => [anymedvisit12m-1] (Conf: 87%, Supp: 70%)
+[anymedvisit12m-1,currentasthma07-2] => [diabetes07-2] (Conf: 87%, Supp: 73%)
+[diabetes07-2,firsttolddepression07-2] => [heavydrink07-2] (Conf: 87%, Supp: 72%)
+[diabetes07-2] => [heavydrink07-2] (Conf: 87%, Supp: 77%)
+[acinhome-1] => [recommendedhivtest07-2] (Conf: 87%, Supp: 73%)
+[currentasthma07-2,diabetes07-2] => [heavydrink07-2] (Conf: 87%, Supp: 73%)
+[heavydrink07-2,twoplussoda-2] => [diabetes07-2] (Conf: 87%, Supp: 71%)
+[diabetes07-2,twoplussoda-2] => [everasthma-2] (Conf: 87%, Supp: 71%)
+[firsttolddepression07-2,twoplussoda-2] => [everasthma-2] (Conf: 87%, Supp: 75%)
+[heavydrink07-2] => [didntgetdental-2] (Conf: 87%, Supp: 77%)
+[binge07-2] => [diabetes07-2] (Conf: 87%, Supp: 71%)
+[cholesterol5yrs07-1,currentasthma07-2] => [diabetes07-2] (Conf: 87%, Supp: 70%)
+[currentasthma07-2,diabetes07-2] => [anymedvisit12m-1] (Conf: 87%, Supp: 73%)
+[didntgetmeds-2] => [everasthma-2] (Conf: 87%, Supp: 72%)
+[firsttolddepression07-2] => [everasthma-2] (Conf: 87%, Supp: 80%)
+[anymedvisit12m-1,didntgetcare07-2] => [diabetes07-2] (Conf: 87%, Supp: 70%)
+[fmd-1] => [everasthma-2] (Conf: 87%, Supp: 71%)
+[pcp07-1] => [diabetes07-2] (Conf: 87%, Supp: 72%)
+[diabetes07-2,firsttolddepression07-2] => [anymedvisit12m-1] (Conf: 87%, Supp: 71%)
+[diabetes07-2] => [everasthma-2] (Conf: 87%, Supp: 77%)
+[anymedvisit12m-1] => [diabetes07-2] (Conf: 87%, Supp: 77%)
+[firsttolddepression07-2,heavydrink07-2] => [everasthma-2] (Conf: 87%, Supp: 70%)
+[didntgetcare07-2,twoplussoda-2] => [everasthma-2] (Conf: 87%, Supp: 72%)
+[cholesterol5yrs07-1] => [pcp07-1] (Conf: 87%, Supp: 74%)
+[cholesterol5yrs07-1] => [diabetes07-2] (Conf: 87%, Supp: 73%)
+[anymedvisit12m-1,twoplussoda-2] => [diabetes07-2] (Conf: 87%, Supp: 72%)
+[cycling07-4] => [diabetes07-2] (Conf: 87%, Supp: 71%)
+[didntgetdental-2] => [everasthma-2] (Conf: 87%, Supp: 71%)
+[didntgetcare07-2] => [everasthma-2] (Conf: 87%, Supp: 77%)
+[didntgetdental-2] => [binge07-2] (Conf: 86%, Supp: 71%)
+[currentasthma07-2,recommendedhivtest07-2] => [didntgetmeds-2] (Conf: 86%, Supp: 70%)
+[anymedvisit12m-1,firsttolddepression07-2] => [everasthma-2] (Conf: 86%, Supp: 70%)
+[sexualid-1] => [recommendedhivtest07-2] (Conf: 86%, Supp: 72%)
+[didntgetmeds-2] => [binge07-2] (Conf: 86%, Supp: 72%)
+[fmd-1] => [tolddepression-2] (Conf: 86%, Supp: 71%)
+[twoplussoda-2] => [everasthma-2] (Conf: 86%, Supp: 80%)
+[sexualid-1] => [everasthma-2] (Conf: 86%, Supp: 72%)
+[didntgetdental-2] => [acinhome-1] (Conf: 86%, Supp: 71%)
+[heavydrink07-2,twoplussoda-2] => [everasthma-2] (Conf: 86%, Supp: 70%)
+[recommendedhivtest07-2] => [everasthma-2] (Conf: 86%, Supp: 73%)
+[acinhome-1] => [everasthma-2] (Conf: 86%, Supp: 72%)
+[cycling07-4] => [everasthma-2] (Conf: 86%, Supp: 70%)
+[didntgetcare07-2,twoplussoda-2] => [cholesterol5yrs07-1] (Conf: 86%, Supp: 71%)
+[binge07-2] => [everasthma-2] (Conf: 86%, Supp: 70%)
+[recommendedhivtest07-2] => [acinhome-1] (Conf: 86%, Supp: 73%)
+[heavydrink07-2] => [everasthma-2] (Conf: 86%, Supp: 76%)
+[heavydrink07-2,twoplussoda-2] => [cholesterol5yrs07-1] (Conf: 86%, Supp: 70%)
+[anymedvisit12m-1,twoplussoda-2] => [everasthma-2] (Conf: 86%, Supp: 71%)
+[recommendedhivtest07-2] => [didntgetmeds-2] (Conf: 86%, Supp: 73%)
+[binge07-2] => [cholesterol5yrs07-1] (Conf: 86%, Supp: 70%)
+[firsttolddepression07-2,heavydrink07-2] => [acinhome-1] (Conf: 86%, Supp: 70%)
+[didntgetcare07-2,firsttolddepression07-2] => [didntgetmeds-2] (Conf: 86%, Supp: 71%)
+[firsttolddepression07-2,twoplussoda-2] => [recommendedhivtest07-2] (Conf: 86%, Supp: 73%)
+[currentasthma07-2,firsttolddepression07-2,twoplussoda-2] => [recommendedhivtest07-2] (Conf: 86%, Supp: 70%)
+[didntgetmeds-2] => [acinhome-1] (Conf: 86%, Supp: 71%)
+[currentasthma07-2,didntgetcare07-2] => [didntgetmeds-2] (Conf: 85%, Supp: 72%)
+[heavydrink07-2,twoplussoda-2] => [acinhome-1] (Conf: 85%, Supp: 70%)
+[didntgetdental-2] => [cholesterol5yrs07-1] (Conf: 85%, Supp: 70%)
+[didntgetcare07-2,firsttolddepression07-2] => [recommendedhivtest07-2] (Conf: 85%, Supp: 71%)
+[fmd-1] => [sexualid-1] (Conf: 85%, Supp: 70%)
+[currentasthma07-2,heavydrink07-2] => [acinhome-1] (Conf: 85%, Supp: 71%)
+[heavydrink07-2] => [acinhome-1] (Conf: 85%, Supp: 75%)
+[cholesterol5yrs07-1] => [everasthma-2] (Conf: 85%, Supp: 72%)
+[firsttolddepression07-2,tolddepression-2] => [fmd-1] (Conf: 85%, Supp: 71%)
+[tolddepression-2] => [fmd-1] (Conf: 85%, Supp: 71%)
+[anymedvisit12m-1] => [everasthma-2] (Conf: 85%, Supp: 76%)
+[pcp07-1] => [everasthma-2] (Conf: 85%, Supp: 71%)
+[acinhome-1] => [cholesterol5yrs07-1] (Conf: 85%, Supp: 71%)
+[didntgetcare07-2,twoplussoda-2] => [recommendedhivtest07-2] (Conf: 85%, Supp: 70%)
+[sexualid-1] => [cholesterol5yrs07-1] (Conf: 85%, Supp: 72%)
+[firsttolddepression07-2] => [recommendedhivtest07-2] (Conf: 85%, Supp: 79%)
+[diabetes07-2,firsttolddepression07-2] => [recommendedhivtest07-2] (Conf: 85%, Supp: 70%)
+[didntgetcare07-2,firsttolddepression07-2] => [fmd-1] (Conf: 85%, Supp: 71%)
+[currentasthma07-2,firsttolddepression07-2] => [recommendedhivtest07-2] (Conf: 85%, Supp: 75%)
+[didntgetcare07-2,twoplussoda-2] => [didntgetmeds-2] (Conf: 85%, Supp: 70%)
+[didntgetcare07-2] => [cholesterol5yrs07-1] (Conf: 85%, Supp: 76%)
+[fmd-1] => [recommendedhivtest07-2] (Conf: 85%, Supp: 70%)
+[recommendedhivtest07-2] => [sexualid-1] (Conf: 85%, Supp: 72%)
+[cholesterol5yrs07-1] => [recommendedhivtest07-2] (Conf: 85%, Supp: 72%)
+[cycling07-4] => [cholesterol5yrs07-1] (Conf: 85%, Supp: 70%)
+[twoplussoda-2] => [cholesterol5yrs07-1] (Conf: 85%, Supp: 79%)
+[didntgetmeds-2] => [sexualid-1] (Conf: 85%, Supp: 70%)
+[firsttolddepression07-2,tolddepression-2] => [recommendedhivtest07-2] (Conf: 85%, Supp: 70%)
+[tolddepression-2] => [recommendedhivtest07-2] (Conf: 85%, Supp: 70%)
+[currentasthma07-2,twoplussoda-2] => [recommendedhivtest07-2] (Conf: 85%, Supp: 75%)
+[pcp07-1] => [sexualid-1] (Conf: 85%, Supp: 71%)
+[currentasthma07-2,didntgetcare07-2] => [cholesterol5yrs07-1] (Conf: 85%, Supp: 72%)
+[currentasthma07-2,didntgetcare07-2] => [recommendedhivtest07-2] (Conf: 85%, Supp: 72%)
+[heavydrink07-2] => [cholesterol5yrs07-1] (Conf: 85%, Supp: 75%)
+[pcp07-1] => [recommendedhivtest07-2] (Conf: 85%, Supp: 71%)
+[didntgetcare07-2] => [didntgetmeds-2] (Conf: 85%, Supp: 76%)
+[twoplussoda-2] => [recommendedhivtest07-2] (Conf: 85%, Supp: 79%)
+[currentasthma07-2,didntgetcare07-2] => [didntgetdental-2] (Conf: 85%, Supp: 72%)
+[recommendedhivtest07-2] => [didntgetdental-2] (Conf: 85%, Supp: 72%)
+[didntgetcare07-2] => [recommendedhivtest07-2] (Conf: 85%, Supp: 76%)
+[fmd-1] => [cholesterol5yrs07-1] (Conf: 85%, Supp: 70%)
+[didntgetcare07-2,twoplussoda-2] => [didntgetdental-2] (Conf: 85%, Supp: 70%)
+[didntgetcare07-2,firsttolddepression07-2] => [didntgetdental-2] (Conf: 85%, Supp: 70%)
+[currentasthma07-2,twoplussoda-2] => [cholesterol5yrs07-1] (Conf: 85%, Supp: 74%)
+[didntgetcare07-2,firsttolddepression07-2] => [cholesterol5yrs07-1] (Conf: 85%, Supp: 70%)
+[recommendedhivtest07-2] => [cholesterol5yrs07-1] (Conf: 85%, Supp: 72%)
+[acinhome-1] => [didntgetdental-2] (Conf: 85%, Supp: 71%)
+[firsttolddepression07-2,twoplussoda-2] => [cholesterol5yrs07-1] (Conf: 85%, Supp: 73%)
+[currentasthma07-2,heavydrink07-2] => [cholesterol5yrs07-1] (Conf: 85%, Supp: 71%)
+[anymedvisit12m-1,twoplussoda-2] => [visitpcp12m-1] (Conf: 85%, Supp: 70%)
+[currentasthma07-2,diabetes07-2] => [recommendedhivtest07-2] (Conf: 85%, Supp: 71%)
+[diabetes07-2] => [recommendedhivtest07-2] (Conf: 85%, Supp: 75%)
+[didntgetcare07-2,twoplussoda-2] => [pcp07-1] (Conf: 85%, Supp: 70%)
+[currentasthma07-2,everasthma-2] => [recommendedhivtest07-2] (Conf: 85%, Supp: 73%)
+[everasthma-2] => [recommendedhivtest07-2] (Conf: 85%, Supp: 73%)
+[didntgetdental-2] => [sexualid-1] (Conf: 85%, Supp: 70%)
+[currentasthma07-2] => [recommendedhivtest07-2] (Conf: 85%, Supp: 80%)
+[acinhome-1] => [sexualid-1] (Conf: 85%, Supp: 71%)
+[anymedvisit12m-1,twoplussoda-2] => [recommendedhivtest07-2] (Conf: 85%, Supp: 70%)
+[acinhome-1] => [didntgetmeds-2] (Conf: 85%, Supp: 71%)
+[didntgetcare07-2] => [didntgetdental-2] (Conf: 85%, Supp: 76%)
+[currentasthma07-2,heavydrink07-2] => [sexualid-1] (Conf: 85%, Supp: 70%)
+[currentasthma07-2,didntgetcare07-2] => [tolddepression-2] (Conf: 85%, Supp: 72%)
+[pcp07-1] => [acinhome-1] (Conf: 85%, Supp: 70%)
+[didntgetcare07-2,firsttolddepression07-2] => [sexualid-1] (Conf: 85%, Supp: 70%)
+[firsttolddepression07-2,tolddepression-2] => [sexualid-1] (Conf: 84%, Supp: 70%)
+[tolddepression-2] => [sexualid-1] (Conf: 84%, Supp: 70%)
+[sexualid-1] => [acinhome-1] (Conf: 84%, Supp: 71%)
+[sexualid-1] => [pcp07-1] (Conf: 84%, Supp: 71%)
+[anymedvisit12m-1,currentasthma07-2] => [recommendedhivtest07-2] (Conf: 84%, Supp: 71%)
+[anymedvisit12m-1,currentasthma07-2] => [sexualid-1] (Conf: 84%, Supp: 71%)
+[cholesterol5yrs07-1] => [sexualid-1] (Conf: 84%, Supp: 72%)
+[firsttolddepression07-2,twoplussoda-2] => [fmd-1] (Conf: 84%, Supp: 72%)
+[currentasthma07-2,firsttolddepression07-2] => [sexualid-1] (Conf: 84%, Supp: 74%)
+[currentasthma07-2,diabetes07-2] => [sexualid-1] (Conf: 84%, Supp: 71%)
+[anymedvisit12m-1] => [recommendedhivtest07-2] (Conf: 84%, Supp: 75%)
+[didntgetmeds-2] => [cholesterol5yrs07-1] (Conf: 84%, Supp: 70%)
+[anymedvisit12m-1] => [visitpcp12m-1] (Conf: 84%, Supp: 75%)
+[heavydrink07-2] => [sexualid-1] (Conf: 84%, Supp: 74%)
+[currentasthma07-2,everasthma-2] => [tolddepression-2] (Conf: 84%, Supp: 73%)
+[everasthma-2] => [tolddepression-2] (Conf: 84%, Supp: 73%)
+[anymedvisit12m-1,currentasthma07-2] => [visitpcp12m-1] (Conf: 84%, Supp: 71%)
+[firsttolddepression07-2,twoplussoda-2] => [sexualid-1] (Conf: 84%, Supp: 72%)
+[currentasthma07-2,didntgetcare07-2] => [sexualid-1] (Conf: 84%, Supp: 71%)
+[currentasthma07-2,firsttolddepression07-2] => [fmd-1] (Conf: 84%, Supp: 74%)
+[didntgetcare07-2] => [pcp07-1] (Conf: 84%, Supp: 75%)
+[acinhome-1] => [pcp07-1] (Conf: 84%, Supp: 70%)
+[firsttolddepression07-2] => [sexualid-1] (Conf: 84%, Supp: 78%)
+[currentasthma07-2] => [cholesterol5yrs07-1] (Conf: 84%, Supp: 80%)
+[anymedvisit12m-1,twoplussoda-2] => [acinhome-1] (Conf: 84%, Supp: 70%)
+[firsttolddepression07-2] => [cholesterol5yrs07-1] (Conf: 84%, Supp: 78%)
+[currentasthma07-2,diabetes07-2] => [tolddepression-2] (Conf: 84%, Supp: 71%)
+[cholesterol5yrs07-1] => [acinhome-1] (Conf: 84%, Supp: 71%)
+[recommendedhivtest07-2] => [binge07-2] (Conf: 84%, Supp: 72%)
+[diabetes07-2] => [sexualid-1] (Conf: 84%, Supp: 74%)
+[anymedvisit12m-1] => [sexualid-1] (Conf: 84%, Supp: 75%)
+[currentasthma07-2,didntgetcare07-2] => [pcp07-1] (Conf: 84%, Supp: 71%)
+[firsttolddepression07-2] => [fmd-1] (Conf: 84%, Supp: 77%)
+[anymedvisit12m-1,currentasthma07-2] => [acinhome-1] (Conf: 84%, Supp: 70%)
+[anymedvisit12m-1] => [acinhome-1] (Conf: 84%, Supp: 75%)
+[sexualid-1] => [didntgetmeds-2] (Conf: 84%, Supp: 70%)
+[didntgetcare07-2,firsttolddepression07-2] => [pcp07-1] (Conf: 84%, Supp: 70%)
+[didntgetcare07-2] => [sexualid-1] (Conf: 84%, Supp: 75%)
+[currentasthma07-2,firsttolddepression07-2] => [cholesterol5yrs07-1] (Conf: 84%, Supp: 74%)
+[currentasthma07-2,twoplussoda-2] => [sexualid-1] (Conf: 84%, Supp: 73%)
+[currentasthma07-2,everasthma-2] => [cholesterol5yrs07-1] (Conf: 84%, Supp: 72%)
+[everasthma-2] => [cholesterol5yrs07-1] (Conf: 84%, Supp: 72%)
+[currentasthma07-2,firsttolddepression07-2] => [didntgetmeds-2] (Conf: 84%, Supp: 74%)
+[currentasthma07-2,twoplussoda-2] => [tolddepression-2] (Conf: 84%, Supp: 73%)
+[currentasthma07-2] => [sexualid-1] (Conf: 84%, Supp: 79%)
+[currentasthma07-2,everasthma-2] => [sexualid-1] (Conf: 84%, Supp: 72%)
+[everasthma-2] => [sexualid-1] (Conf: 84%, Supp: 72%)
+[didntgetcare07-2] => [tolddepression-2] (Conf: 84%, Supp: 75%)
+[currentasthma07-2,didntgetcare07-2] => [acinhome-1] (Conf: 84%, Supp: 71%)
+[diabetes07-2] => [acinhome-1] (Conf: 84%, Supp: 74%)
+[didntgetcare07-2] => [acinhome-1] (Conf: 84%, Supp: 75%)
+[twoplussoda-2] => [sexualid-1] (Conf: 84%, Supp: 77%)
+[firsttolddepression07-2,twoplussoda-2] => [acinhome-1] (Conf: 84%, Supp: 71%)
+[currentasthma07-2,diabetes07-2] => [acinhome-1] (Conf: 84%, Supp: 70%)
+[currentasthma07-2] => [tolddepression-2] (Conf: 84%, Supp: 79%)
+[twoplussoda-2] => [pcp07-1] (Conf: 83%, Supp: 77%)
+[sexualid-1] => [fmd-1] (Conf: 83%, Supp: 70%)
+[currentasthma07-2,diabetes07-2] => [didntgetmeds-2] (Conf: 83%, Supp: 70%)
+[firsttolddepression07-2] => [acinhome-1] (Conf: 83%, Supp: 77%)
+[currentasthma07-2,everasthma-2] => [didntgetmeds-2] (Conf: 83%, Supp: 72%)
+[everasthma-2] => [didntgetmeds-2] (Conf: 83%, Supp: 72%)
+[currentasthma07-2,firsttolddepression07-2] => [acinhome-1] (Conf: 83%, Supp: 73%)
+[sexualid-1] => [tolddepression-2] (Conf: 83%, Supp: 70%)
+[currentasthma07-2,twoplussoda-2] => [acinhome-1] (Conf: 83%, Supp: 73%)
+[firsttolddepression07-2,twoplussoda-2] => [didntgetmeds-2] (Conf: 83%, Supp: 71%)
+[currentasthma07-2,didntgetcare07-2] => [fmd-1] (Conf: 83%, Supp: 71%)
+[twoplussoda-2] => [acinhome-1] (Conf: 83%, Supp: 77%)
+[firsttolddepression07-2,twoplussoda-2] => [pcp07-1] (Conf: 83%, Supp: 71%)
+[currentasthma07-2,twoplussoda-2] => [didntgetmeds-2] (Conf: 83%, Supp: 73%)
+[diabetes07-2] => [tolddepression-2] (Conf: 83%, Supp: 74%)
+[heavydrink07-2] => [pcp07-1] (Conf: 83%, Supp: 73%)
+[currentasthma07-2,everasthma-2] => [acinhome-1] (Conf: 83%, Supp: 72%)
+[everasthma-2] => [acinhome-1] (Conf: 83%, Supp: 72%)
+[currentasthma07-2,twoplussoda-2] => [pcp07-1] (Conf: 83%, Supp: 73%)
+[anymedvisit12m-1,currentasthma07-2] => [didntgetdental-2] (Conf: 83%, Supp: 70%)
+[currentasthma07-2] => [acinhome-1] (Conf: 83%, Supp: 79%)
+[diabetes07-2] => [cholesterol5yrs07-1] (Conf: 83%, Supp: 73%)
+[recommendedhivtest07-2] => [pcp07-1] (Conf: 83%, Supp: 71%)
+[sexualid-1] => [didntgetdental-2] (Conf: 83%, Supp: 70%)
+[firsttolddepression07-2] => [didntgetmeds-2] (Conf: 83%, Supp: 77%)
+[currentasthma07-2] => [didntgetmeds-2] (Conf: 83%, Supp: 79%)
+[currentasthma07-2,diabetes07-2] => [cholesterol5yrs07-1] (Conf: 83%, Supp: 70%)
+[anymedvisit12m-1,currentasthma07-2] => [didntgetmeds-2] (Conf: 83%, Supp: 70%)
+[cholesterol5yrs07-1] => [didntgetdental-2] (Conf: 83%, Supp: 70%)
+[didntgetcare07-2] => [fmd-1] (Conf: 83%, Supp: 74%)
+[recommendedhivtest07-2] => [tolddepression-2] (Conf: 83%, Supp: 70%)
+[currentasthma07-2,twoplussoda-2] => [didntgetdental-2] (Conf: 83%, Supp: 72%)
+[diabetes07-2] => [didntgetmeds-2] (Conf: 83%, Supp: 73%)
+[currentasthma07-2,firsttolddepression07-2] => [didntgetdental-2] (Conf: 83%, Supp: 73%)
+[twoplussoda-2] => [tolddepression-2] (Conf: 83%, Supp: 76%)
+[anymedvisit12m-1] => [didntgetdental-2] (Conf: 83%, Supp: 74%)
+[currentasthma07-2] => [pcp07-1] (Conf: 83%, Supp: 78%)
+[firsttolddepression07-2] => [pcp07-1] (Conf: 83%, Supp: 76%)
+[twoplussoda-2] => [didntgetmeds-2] (Conf: 83%, Supp: 76%)
+[firsttolddepression07-2,twoplussoda-2] => [didntgetdental-2] (Conf: 83%, Supp: 71%)
+[currentasthma07-2,firsttolddepression07-2] => [pcp07-1] (Conf: 83%, Supp: 73%)
+[currentasthma07-2,everasthma-2] => [didntgetdental-2] (Conf: 82%, Supp: 71%)
+[everasthma-2] => [didntgetdental-2] (Conf: 82%, Supp: 71%)
+[anymedvisit12m-1] => [cycling07-4] (Conf: 82%, Supp: 73%)
+[currentasthma07-2] => [didntgetdental-2] (Conf: 82%, Supp: 78%)
+[currentasthma07-2,everasthma-2] => [fmd-1] (Conf: 82%, Supp: 71%)
+[everasthma-2] => [fmd-1] (Conf: 82%, Supp: 71%)
+[currentasthma07-2,twoplussoda-2] => [fmd-1] (Conf: 82%, Supp: 72%)
+[diabetes07-2] => [fmd-1] (Conf: 82%, Supp: 73%)
+[twoplussoda-2] => [didntgetdental-2] (Conf: 82%, Supp: 76%)
+[firsttolddepression07-2] => [didntgetdental-2] (Conf: 82%, Supp: 76%)
+[cholesterol5yrs07-1] => [didntgetmeds-2] (Conf: 82%, Supp: 70%)
+[cholesterol5yrs07-1] => [binge07-2] (Conf: 82%, Supp: 70%)
+[currentasthma07-2,everasthma-2] => [pcp07-1] (Conf: 82%, Supp: 71%)
+[everasthma-2] => [pcp07-1] (Conf: 82%, Supp: 71%)
+[heavydrink07-2] => [tolddepression-2] (Conf: 82%, Supp: 72%)
+[anymedvisit12m-1] => [didntgetmeds-2] (Conf: 82%, Supp: 73%)
+[cholesterol5yrs07-1] => [cycling07-4] (Conf: 82%, Supp: 70%)
+[anymedvisit12m-1] => [binge07-2] (Conf: 82%, Supp: 73%)
+[currentasthma07-2] => [fmd-1] (Conf: 82%, Supp: 78%)
+[recommendedhivtest07-2] => [fmd-1] (Conf: 82%, Supp: 70%)
+[cholesterol5yrs07-1] => [fmd-1] (Conf: 82%, Supp: 70%)
+[heavydrink07-2] => [fmd-1] (Conf: 82%, Supp: 72%)
+[diabetes07-2] => [pcp07-1] (Conf: 82%, Supp: 72%)
+[twoplussoda-2] => [fmd-1] (Conf: 82%, Supp: 76%)
+[diabetes07-2] => [didntgetdental-2] (Conf: 82%, Supp: 72%)
+[twoplussoda-2] => [cycling07-4] (Conf: 82%, Supp: 76%)
+[didntgetcare07-2] => [cycling07-4] (Conf: 82%, Supp: 73%)
+[heavydrink07-2] => [cycling07-4] (Conf: 82%, Supp: 72%)
+[currentasthma07-2,twoplussoda-2] => [binge07-2] (Conf: 82%, Supp: 71%)
+[currentasthma07-2,twoplussoda-2] => [cycling07-4] (Conf: 82%, Supp: 71%)
+[didntgetcare07-2] => [binge07-2] (Conf: 82%, Supp: 73%)
+[currentasthma07-2,everasthma-2] => [cycling07-4] (Conf: 81%, Supp: 70%)
+[everasthma-2] => [cycling07-4] (Conf: 81%, Supp: 70%)
+[twoplussoda-2] => [binge07-2] (Conf: 81%, Supp: 75%)
+[anymedvisit12m-1] => [tolddepression-2] (Conf: 81%, Supp: 72%)
+[anymedvisit12m-1] => [fmd-1] (Conf: 81%, Supp: 72%)
+[currentasthma07-2] => [cycling07-4] (Conf: 81%, Supp: 77%)
+[currentasthma07-2] => [binge07-2] (Conf: 81%, Supp: 77%)
+[currentasthma07-2,everasthma-2] => [binge07-2] (Conf: 81%, Supp: 70%)
+[everasthma-2] => [binge07-2] (Conf: 81%, Supp: 70%)
+[firsttolddepression07-2] => [cycling07-4] (Conf: 81%, Supp: 75%)
+[currentasthma07-2,firsttolddepression07-2] => [binge07-2] (Conf: 81%, Supp: 71%)
+[currentasthma07-2,firsttolddepression07-2] => [cycling07-4] (Conf: 81%, Supp: 71%)
+[firsttolddepression07-2] => [binge07-2] (Conf: 81%, Supp: 74%)
+[diabetes07-2] => [binge07-2] (Conf: 80%, Supp: 71%)
+[diabetes07-2] => [cycling07-4] (Conf: 80%, Supp: 71%)
