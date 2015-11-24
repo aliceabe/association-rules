@@ -379,7 +379,7 @@
 [anymedvisit12m-1,diabetes07-2,didntgetcare07-2], 70%
 [anymedvisit12m-1,currentasthma07-2,didntgetmeds-2], 70%
 
-==High-confidence association rules (min_conf=80%)
+==High-confidence association rules (min_conf=70%)
 [acinhome-1,everasthma-2] => [currentasthma07-2] (Conf: 100%, Supp: 72%)
 [anymedvisit12m-1,currentasthma07-2,visitpcp12m-1] => [pcp07-1] (Conf: 100%, Supp: 71%)
 [anymedvisit12m-1,everasthma-2,firsttolddepression07-2] => [currentasthma07-2] (Conf: 100%, Supp: 70%)
@@ -1315,3 +1315,8 @@
 [firsttolddepression07-2] => [binge07-2] (Conf: 81%, Supp: 74%)
 [diabetes07-2] => [binge07-2] (Conf: 80%, Supp: 71%)
 [diabetes07-2] => [cycling07-4] (Conf: 80%, Supp: 71%)
+[twoplussoda-2] => [dphonew06-4] (Conf: 78%, Supp: 72%)
+[firsttolddepression07-2] => [dphonew06-4] (Conf: 78%, Supp: 72%)
+[currentasthma07-2] => [dphonew06-4] (Conf: 77%, Supp: 73%)
+[twoplussoda-2] => [visitpcp12m-1] (Conf: 76%, Supp: 70%)
+[currentasthma07-2] => [visitpcp12m-1] (Conf: 75%, Supp: 71%)

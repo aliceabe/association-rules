@@ -9,7 +9,7 @@ with open('chs07_public.csv', 'rb') as f:
 		else:
 			line = row[1:]
 			line.pop(63)
-			array = [ h + '-' + l for h, l in zip(head,line) if l != 'NA' ]
+			array = [ h + '-' + l for h, l in zip(head,line) if l != 'NA']
 			transactions.append( ','.join(array) )
 
 with open('chs07_public_processed.csv', 'w') as f:
